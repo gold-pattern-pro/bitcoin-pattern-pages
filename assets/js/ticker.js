@@ -1,18 +1,31 @@
 (function () {
-  const SYMBOLS = ["BTC", "ETH", "XRP", "BNB", "SOL"];
+  // Top-10 crypto by market cap (USDT spot pairs on OKX / Binance)
+  const SYMBOLS = ["BTC", "ETH", "BNB", "SOL", "XRP", "DOGE", "ADA", "TRX", "AVAX", "LINK"];
+  const ARTICLE_SYMBOLS = ["BTC", "ETH", "XRP", "BNB", "SOL"];
+
   const OKX_IDS = {
     BTC: "BTC-USDT",
     ETH: "ETH-USDT",
-    XRP: "XRP-USDT",
     BNB: "BNB-USDT",
     SOL: "SOL-USDT",
+    XRP: "XRP-USDT",
+    DOGE: "DOGE-USDT",
+    ADA: "ADA-USDT",
+    TRX: "TRX-USDT",
+    AVAX: "AVAX-USDT",
+    LINK: "LINK-USDT",
   };
   const BINANCE_IDS = {
     BTC: "BTCUSDT",
     ETH: "ETHUSDT",
-    XRP: "XRPUSDT",
     BNB: "BNBUSDT",
     SOL: "SOLUSDT",
+    XRP: "XRPUSDT",
+    DOGE: "DOGEUSDT",
+    ADA: "ADAUSDT",
+    TRX: "TRXUSDT",
+    AVAX: "AVAXUSDT",
+    LINK: "LINKUSDT",
   };
   const BINANCE_BASES = [
     "https://data-api.binance.vision",
@@ -23,9 +36,10 @@
   function formatPrice(symbol, value) {
     const n = parseFloat(value);
     if (Number.isNaN(n)) return "—";
-    if (symbol === "XRP") return "$" + n.toFixed(4);
     if (n >= 1000) return "$" + n.toLocaleString("en-US", { maximumFractionDigits: 0 });
-    return "$" + n.toFixed(2);
+    if (n >= 1) return "$" + n.toFixed(2);
+    if (n >= 0.01) return "$" + n.toFixed(4);
+    return "$" + n.toFixed(6);
   }
 
   function formatChange(pct) {
@@ -130,10 +144,12 @@
     const items = SYMBOLS.map((sym) => {
       const { price, change } = blendQuote(sym, okx, binance);
       return buildTickerItem(sym, price, change);
-    });
+    }).filter(Boolean);
+
+    if (!items.length) return;
 
     track.replaceChildren();
-    // Duplicate for seamless loop
+    // Two identical sets for seamless -50% loop
     items.forEach((el) => track.appendChild(el.cloneNode(true)));
     items.forEach((el) => track.appendChild(el.cloneNode(true)));
   }
@@ -141,6 +157,7 @@
   function renderCoinGrid(okx, binance) {
     document.querySelectorAll(".coin-card").forEach((card) => {
       const sym = card.dataset.symbol;
+      if (!ARTICLE_SYMBOLS.includes(sym)) return;
       const { price, change } = blendQuote(sym, okx, binance);
       const priceEl = card.querySelector(".coin-price");
       const changeEl = card.querySelector(".coin-change");

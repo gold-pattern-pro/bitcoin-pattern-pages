@@ -145,7 +145,7 @@ a:hover { color: var(--purple); }
   gap: 32px;
   width: max-content;
   white-space: nowrap;
-  animation: ticker 40s linear infinite;
+  animation: ticker 75s linear infinite;
   font-size: 0.78rem;
   font-family: var(--font-body);
   letter-spacing: 0.02em;
@@ -586,6 +586,27 @@ a:hover { color: var(--purple); }
   color: var(--cyan);
 }
 .about-block p, .about-block li { color: var(--text-dim); margin: 0 0 10px; }
+
+.faq-item {
+  margin-bottom: 10px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: rgba(0,0,0,0.2);
+}
+.faq-item summary {
+  cursor: pointer;
+  padding: 12px 14px;
+  font-weight: 600;
+  color: var(--text);
+  list-style: none;
+}
+.faq-item summary::-webkit-details-marker { display: none; }
+.faq-item p { padding: 0 14px 12px; margin: 0; }
+
+.app-redirect { text-align: center; max-width: 480px; margin: 48px auto; }
+.app-redirect ul { list-style: none; padding: 0; }
+.app-redirect li { margin: 8px 0; }
+.app-redirect a { color: var(--cyan); font-weight: 600; }
 
 .breadcrumbs ol {
   display: flex; flex-wrap: wrap; gap: 8px;

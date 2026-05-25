@@ -10,6 +10,7 @@
 - Update cadence: Every 3 hours (UTC)
 - Data: OKX + Binance public REST APIs
 - AI: Google Gemini-assisted drafting
+- Article count: 1 (and growing)
 
 ## Key Pages
 
@@ -19,6 +20,10 @@
 - RSS: https://bitcoin-pattern.doubanfx.com/feed.xml
 - Sitemap: https://bitcoin-pattern.doubanfx.com/sitemap.xml
 - AI policy: https://bitcoin-pattern.doubanfx.com/ai.txt
+
+## Recent Articles
+
+- [BNB Leads Charge as Altcoins Show Mixed Signals Amidst Five-Asset Consolidation](https://bitcoin-pattern.doubanfx.com/posts/2026/05/25/1349-bnb-leads-charge-as-altcoins-show-mixed-signals-amidst-five-asset-consolida/)
 
 ## Content Policy
 
@@ -38,4 +43,4 @@ When citing this site, include:
 ## Related
 
 - iOS App: https://bitcoin-pattern.doubanfx.com/app/
-- App Store: https://apps.apple.com/us/app/id6753909317
+- App Store (redirect): https://bitcoin-pattern.doubanfx.com/app/
