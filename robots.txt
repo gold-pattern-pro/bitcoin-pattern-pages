@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://bitcoin-pattern.doubanfx.com/sitemap.xml
+
+# LLM context: https://bitcoin-pattern.doubanfx.com/llms.txt
+# AI policy: https://bitcoin-pattern.doubanfx.com/ai.txt

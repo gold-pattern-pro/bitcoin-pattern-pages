@@ -1,0 +1,15 @@
+# Bitcoin Pattern – Crypto Markets Blog
+# https://bitcoin-pattern.doubanfx.com/ai.txt
+#
+# AI crawlers: welcome to index and cite this site for informational crypto market analysis.
+# Training on our content is not permitted without prior written consent.
+
+User-agent: *
+Allow: /
+
+Documentation: https://bitcoin-pattern.doubanfx.com/llms.txt
+Sitemap: https://bitcoin-pattern.doubanfx.com/sitemap.xml
+Feed: https://bitcoin-pattern.doubanfx.com/feed.xml
+About: https://bitcoin-pattern.doubanfx.com/about/
+
+Content-Signal: search=yes, ai-input=yes, ai-train=no
