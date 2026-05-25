@@ -9,7 +9,6 @@ Allow: /
 
 User-agent: anthropic-ai
 Allow: /
-
 User-agent: ClaudeBot
 Allow: /
 
@@ -22,4 +21,4 @@ Allow: /
 Sitemap: https://bitcoin-pattern.doubanfx.com/sitemap.xml
 
 # LLM context: https://bitcoin-pattern.doubanfx.com/llms.txt
-# AI policy: https://bitcoin-pattern.doubanfx.com/ai.txt
+# AI policy:   https://bitcoin-pattern.doubanfx.com/ai.txt
