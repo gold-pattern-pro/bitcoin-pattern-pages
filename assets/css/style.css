@@ -127,72 +127,39 @@ a:hover { color: var(--purple); }
 }
 .site-nav a:hover { color: var(--text); background: rgba(255,255,255,0.04); }
 
-/* Apple-style App Store badge (shared nav + sidebar) */
-.app-store-badge {
+/* App Store download badge (image-based, fixed size) */
+.app-store-link {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  padding: 7px 12px 7px 10px;
-  background: #fff;
-  color: #000;
-  border-radius: 9px;
-  border: 1px solid rgba(255, 255, 255, 0.14);
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.28);
-  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", "Helvetica Neue", sans-serif;
-  text-decoration: none;
-  line-height: 1.05;
-  transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.15s ease;
-  white-space: nowrap;
-}
-.app-store-badge:hover {
-  color: #000;
-  transform: translateY(-1px);
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
-  opacity: 0.96;
-}
-.app-store-badge__apple {
-  width: 18px;
-  height: 18px;
   flex-shrink: 0;
-  fill: currentColor;
+  padding: 0;
+  background: transparent;
+  border: none;
+  line-height: 0;
+  text-decoration: none;
+  transition: transform 0.15s ease, opacity 0.15s ease;
 }
-.app-store-badge__copy {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
+.app-store-link:hover {
+  transform: translateY(-1px);
+  opacity: 0.92;
 }
-.app-store-badge__line1 {
-  font-size: 9px;
-  font-weight: 400;
-  letter-spacing: 0.01em;
+.app-store-link img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
 }
-.app-store-badge__line2 {
-  font-size: 14px;
-  font-weight: 600;
-  letter-spacing: -0.02em;
-}
-.app-store-badge--sm {
-  padding: 5px 9px 5px 8px;
-  gap: 6px;
-  border-radius: 8px;
-}
-.app-store-badge--sm .app-store-badge__apple { width: 15px; height: 15px; }
-.app-store-badge--sm .app-store-badge__line1 { font-size: 7px; }
-.app-store-badge--sm .app-store-badge__line2 { font-size: 11px; }
-.app-store-badge--md {
-  padding: 8px 14px 8px 12px;
-  gap: 10px;
-  border-radius: 10px;
-}
-.app-store-badge--md .app-store-badge__apple { width: 22px; height: 22px; }
-.app-store-badge--md .app-store-badge__line1 { font-size: 10px; }
-.app-store-badge--md .app-store-badge__line2 { font-size: 16px; }
-.app-store-badge--block {
+.app-store-link--sm img { width: 108px; height: 33px; }
+.app-store-link--md img { width: 140px; height: 42px; }
+.app-store-link--block {
   width: 100%;
   justify-content: center;
 }
-.site-nav .app-store-badge {
-  margin-left: 4px;
+.site-nav .app-store-link {
+  margin-left: 6px;
+}
+.site-nav .app-store-link:hover {
+  background: transparent;
 }
 
 .ticker-strip {
