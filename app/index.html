@@ -192,7 +192,9 @@
   var target = preferCN ? cn : intl;
   var link = document.getElementById("app-store-link");
   if (link) link.href = target;
-  location.replace(target);
+  setTimeout(function () {
+    location.replace(target);
+  }, 1500);
 })();
 </script>
 
