@@ -1,7 +1,6 @@
 (function () {
   // Top-10 crypto by market cap (USDT spot pairs on OKX / Binance)
   const SYMBOLS = ["BTC", "ETH", "BNB", "SOL", "XRP", "DOGE", "ADA", "TRX", "AVAX", "LINK"];
-  const ARTICLE_SYMBOLS = ["BTC", "ETH", "XRP", "BNB", "SOL"];
 
   const OKX_IDS = {
     BTC: "BTC-USDT",
@@ -157,7 +156,6 @@
   function renderCoinGrid(okx, binance) {
     document.querySelectorAll(".coin-card").forEach((card) => {
       const sym = card.dataset.symbol;
-      if (!ARTICLE_SYMBOLS.includes(sym)) return;
       const { price, change } = blendQuote(sym, okx, binance);
       const priceEl = card.querySelector(".coin-price");
       const changeEl = card.querySelector(".coin-change");

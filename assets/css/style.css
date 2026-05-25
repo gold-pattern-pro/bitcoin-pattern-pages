@@ -824,10 +824,16 @@ a:hover { color: var(--purple); }
 
 @media (max-width: 960px) {
   .hero-wrap { grid-template-columns: 1fr; }
-  .coin-grid { grid-template-columns: repeat(2, 1fr); }
+  .coin-grid { grid-template-columns: repeat(5, 1fr); gap: 8px; }
+  .coin-card { padding: 12px; }
+  .coin-price { font-size: 0.92rem; }
   .post-grid { grid-template-columns: 1fr; }
   .post-sidebar { position: static; }
   .link-tiles { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 720px) {
+  .coin-grid { grid-template-columns: repeat(2, 1fr); }
 }
 
 @media (max-width: 640px) {
