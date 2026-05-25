@@ -17,9 +17,9 @@
 
 
 
-<meta name="description" content="About Bitcoin Pattern crypto blog — data sources, OKX and Binance feeds, update schedule, citation guidelines, and disclaimers for search engines and AI crawle…" />
+<meta name="description" content="About Bitcoin Pattern crypto blog — data sources, update schedule, citation guidelines, and disclaimers for search engines and AI crawlers." />
 
-  <meta name="keywords" content="bitcoin pattern, crypto blog, OKX, Binance, technical analysis, AI content policy" />
+  <meta name="keywords" content="bitcoin pattern, crypto blog, technical analysis, AI content policy" />
 
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
 <meta name="author" content="Bitcoin Pattern" />
@@ -43,7 +43,7 @@
 
 <meta property="og:site_name" content="Bitcoin Pattern" />
 <meta property="og:title" content="About Bitcoin Pattern" />
-<meta property="og:description" content="About Bitcoin Pattern crypto blog — data sources, OKX and Binance feeds, update schedule, citation guidelines, and disclaimers for search engines and AI crawle…" />
+<meta property="og:description" content="About Bitcoin Pattern crypto blog — data sources, update schedule, citation guidelines, and disclaimers for search engines and AI crawlers." />
 <meta property="og:url" content="https://bitcoin-pattern.doubanfx.com/about/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:image" content="https://bitcoin-pattern.doubanfx.com/assets/images/og-default.svg" />
@@ -56,7 +56,7 @@
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="About Bitcoin Pattern" />
-<meta name="twitter:description" content="About Bitcoin Pattern crypto blog — data sources, OKX and Binance feeds, update schedule, citation guidelines, and disclaimers for search engines and AI crawle…" />
+<meta name="twitter:description" content="About Bitcoin Pattern crypto blog — data sources, update schedule, citation guidelines, and disclaimers for search engines and AI crawlers." />
 <meta name="twitter:image" content="https://bitcoin-pattern.doubanfx.com/assets/images/og-default.svg" />
 <meta name="twitter:image:alt" content="About Bitcoin Pattern" />
 
@@ -127,7 +127,7 @@
           "name": "Where do reference prices come from?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Prices are fetched from OKX and Binance public spot USDT APIs at generation time. When both exchanges report a price, articles may reference a blended quote."
+            "text": "Prices are fetched from public spot exchange APIs at generation time. When multiple sources report a price, articles may reference a blended quote."
           }
         },
         
@@ -238,7 +238,7 @@
   <header class="page-head">
     <h1>About Bitcoin Pattern</h1>
     
-    <p class="page-lead">About Bitcoin Pattern crypto blog — data sources, OKX and Binance feeds, update schedule, citation guidelines, and disclaimers for search engines and AI crawlers.</p>
+    <p class="page-lead">About Bitcoin Pattern crypto blog — data sources, update schedule, citation guidelines, and disclaimers for search engines and AI crawlers.</p>
     
   </header>
   <div class="page-content prose">
@@ -249,12 +249,7 @@
 
 <section class="about-block">
   <h2>Data Sources</h2>
-  <p>Reference prices cited in each article are pulled from public exchange APIs at generation time:</p>
-  <ul>
-    <li><strong>OKX</strong> — REST market ticker endpoints (spot USDT pairs)</li>
-    <li><strong>Binance</strong> — REST 24hr ticker statistics (spot USDT pairs)</li>
-  </ul>
-  <p>When both exchanges report a price, articles reference a blended quote. If Binance is unavailable, OKX-only data is used. Figures may differ slightly from real-time exchange terminals.</p>
+  <p>Market data is fetched automatically from public REST APIs (spot USDT pairs) at each publish cycle. When multiple sources report a price, articles may reference a blended quote.</p>
 </section>
 
 <section class="about-block">
@@ -264,7 +259,7 @@
 
 <section class="about-block">
   <h2>Content Production</h2>
-  <p>An automated pipeline fetches live quotes from OKX and Binance, computes volatility context, and uses <strong>Google Gemini</strong> to draft structured English-language analysis. Content is for education and research only.</p>
+  <p>An automated pipeline fetches live quotes, computes volatility context, and uses <strong>Google Gemini</strong> to draft structured English-language analysis. Content is for education and research only.</p>
 </section>
 
 <section class="about-block">
@@ -294,7 +289,7 @@
   
   <details class="faq-item">
     <summary>Where do reference prices come from?</summary>
-    <p>Prices are fetched from OKX and Binance public spot USDT APIs at generation time. When both exchanges report a price, articles may reference a blended quote.</p>
+    <p>Prices are fetched from public spot exchange APIs at generation time. When multiple sources report a price, articles may reference a blended quote.</p>
   </details>
   
   <details class="faq-item">

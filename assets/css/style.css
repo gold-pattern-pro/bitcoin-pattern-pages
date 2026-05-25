@@ -636,7 +636,26 @@ a:hover { color: var(--purple); }
 .faq-item summary::-webkit-details-marker { display: none; }
 .faq-item p { padding: 0 14px 12px; margin: 0; }
 
-.app-redirect { text-align: center; max-width: 480px; margin: 48px auto; }
+.app-redirect-page {
+  box-sizing: border-box;
+  width: fit-content;
+  max-width: calc(100% - 32px);
+  margin: 56px auto;
+  padding: 32px 36px;
+  text-align: center;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+  background: var(--bg-raised);
+}
+.app-redirect-title {
+  margin: 0 0 12px;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--text);
+  white-space: nowrap;
+  line-height: 1.2;
+}
 .app-redirect-lead { color: var(--text-dim); margin: 0; }
 .app-redirect-fallback { margin-top: 20px; font-size: 0.85rem; }
 .app-redirect-fallback a { color: var(--cyan); font-weight: 600; }
