@@ -200,7 +200,7 @@
     }
   }
 
-  if (document.getElementById("ticker-track") || document.getElementById("coin-grid")) {
+  if (document.getElementById("ticker-track") || document.getElementById("coin-grid") || document.getElementById("sidebar-coin-grid")) {
     refresh();
     setInterval(refresh, 30000);
   }

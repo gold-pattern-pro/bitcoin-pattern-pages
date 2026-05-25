@@ -404,6 +404,44 @@ a:hover { color: var(--purple); }
   gap: 12px;
 }
 
+.coin-grid--sidebar {
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+}
+
+.coin-card--compact .coin-card-top {
+  margin-bottom: 6px;
+  gap: 6px;
+}
+.coin-card--compact .coin-card-top .coin-symbol {
+  font-size: 0.78rem;
+}
+.coin-card--compact {
+  padding: 10px;
+}
+.coin-card--compact .coin-price {
+  font-size: 0.82rem;
+}
+.coin-card--compact .coin-change {
+  font-size: 0.66rem;
+  margin-top: 2px;
+}
+
+.sidebar-quotes-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+.sidebar-quotes-head .sidebar-title {
+  margin: 0;
+}
+.live-badge-sm {
+  font-size: 0.58rem;
+  padding: 3px 8px;
+}
+
 .coin-card {
   padding: 16px;
   border-radius: var(--radius-sm);
