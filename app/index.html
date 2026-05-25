@@ -60,7 +60,7 @@
 <meta name="twitter:image" content="https://bitcoin-pattern.doubanfx.com/assets/images/og-default.svg" />
 <meta name="twitter:image:alt" content="Get Bitcoin Pattern" />
 
-<link rel="stylesheet" href="/assets/css/style.css?v=2026052513" />
+<link rel="stylesheet" href="/assets/css/style.css?v=2026052514" />
 <link rel="alternate" type="application/rss+xml" title="Bitcoin Pattern" href="/feed.xml" />
 <link rel="alternate" type="application/xml" title="Sitemap" href="/sitemap.xml" />
 <link rel="alternate" type="text/plain" title="LLMs.txt" href="/llms.txt" />
@@ -159,12 +159,12 @@
 
     <main id="main" class="site-main" role="main">
       <section class="about-block app-redirect">
+  <div class="app-redirect-spinner" aria-hidden="true"></div>
   <h1>Redirecting to the App Store…</h1>
-  <p>If you are not redirected automatically, choose your store:</p>
-  <ul>
-    <li><a id="app-store-cn" href="https://apps.apple.com/cn/app/id6753909317">China App Store</a></li>
-    <li><a id="app-store-intl" href="https://apps.apple.com/us/app/id6753909317">International App Store</a></li>
-  </ul>
+  <p class="app-redirect-lead">Opening the download page for Bitcoin Pattern.</p>
+  <p class="app-redirect-fallback">
+    <a id="app-store-link" href="https://apps.apple.com/us/app/id6753909317" rel="noopener noreferrer">Continue to App Store</a>
+  </p>
 </section>
 
 <script>
@@ -175,7 +175,10 @@
   var tz = "";
   try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch (e) {}
   var preferCN = lang.indexOf("zh") === 0 || /shanghai|chongqing|urumqi|hong_kong|taipei|macau|beijing/i.test(tz);
-  location.replace(preferCN ? cn : intl);
+  var target = preferCN ? cn : intl;
+  var link = document.getElementById("app-store-link");
+  if (link) link.href = target;
+  location.replace(target);
 })();
 </script>
 
