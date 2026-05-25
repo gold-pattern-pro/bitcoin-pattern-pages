@@ -1,6 +1,7 @@
 (function () {
   // Top-10 crypto by market cap (USDT spot pairs on OKX / Binance)
   const SYMBOLS = ["BTC", "ETH", "BNB", "SOL", "XRP", "DOGE", "ADA", "TRX", "AVAX", "LINK"];
+  const WANT = new Set(SYMBOLS);
 
   const OKX_IDS = {
     BTC: "BTC-USDT",
@@ -62,6 +63,15 @@
     return { price, change };
   }
 
+  function parseOkxRow(t) {
+    const sym = t.instId.replace("-USDT", "");
+    const open24 = parseFloat(t.open24h) || parseFloat(t.last);
+    return {
+      price: t.last,
+      change: ((parseFloat(t.last) - open24) / open24) * 100,
+    };
+  }
+
   async function fetchOkxSymbol(sym) {
     try {
       const res = await fetch(
@@ -70,11 +80,7 @@
       const json = await res.json();
       const t = json.data?.[0];
       if (!t) return null;
-      const open24 = parseFloat(t.open24h) || parseFloat(t.last);
-      return {
-        price: t.last,
-        change: ((parseFloat(t.last) - open24) / open24) * 100,
-      };
+      return parseOkxRow(t);
     } catch (_) {
       return null;
     }
@@ -82,12 +88,25 @@
 
   async function fetchOkx() {
     const map = {};
-    await Promise.all(
-      SYMBOLS.map(async (sym) => {
-        const q = await fetchOkxSymbol(sym);
-        if (q) map[sym] = q;
-      })
-    );
+    try {
+      const res = await fetch("https://www.okx.com/api/v5/market/tickers?instType=SPOT");
+      const json = await res.json();
+      for (const t of json.data || []) {
+        const sym = t.instId.replace("-USDT", "");
+        if (!WANT.has(sym)) continue;
+        map[sym] = parseOkxRow(t);
+      }
+    } catch (_) {}
+
+    const missing = SYMBOLS.filter((sym) => !map[sym]);
+    if (missing.length) {
+      await Promise.all(
+        missing.map(async (sym) => {
+          const q = await fetchOkxSymbol(sym);
+          if (q) map[sym] = q;
+        })
+      );
+    }
     return map;
   }
 
@@ -148,7 +167,6 @@
     if (!items.length) return;
 
     track.replaceChildren();
-    // Two identical sets for seamless -50% loop
     items.forEach((el) => track.appendChild(el.cloneNode(true)));
     items.forEach((el) => track.appendChild(el.cloneNode(true)));
   }
@@ -156,6 +174,7 @@
   function renderCoinGrid(okx, binance) {
     document.querySelectorAll(".coin-card").forEach((card) => {
       const sym = card.dataset.symbol;
+      if (!sym) return;
       const { price, change } = blendQuote(sym, okx, binance);
       const priceEl = card.querySelector(".coin-price");
       const changeEl = card.querySelector(".coin-change");
