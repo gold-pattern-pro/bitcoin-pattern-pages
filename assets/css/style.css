@@ -157,9 +157,13 @@ a:hover { color: var(--purple); }
 }
 .site-nav .app-store-link {
   margin-left: 6px;
+  padding: 0 !important;
+  border-radius: 0;
+  font-size: inherit;
 }
 .site-nav .app-store-link:hover {
-  background: transparent;
+  background: transparent !important;
+  color: inherit;
 }
 
 .ticker-strip {
