@@ -555,6 +555,19 @@ a:hover { color: var(--purple); }
   gap: 16px;
   list-style: none; margin: 0; padding: 0;
 }
+.article-grid-recent {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+@media (max-width: 960px) {
+  .article-grid-recent { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 640px) {
+  .article-grid-recent { grid-template-columns: 1fr; }
+}
+.pager-compact {
+  margin-top: 20px;
+  justify-content: center;
+}
 
 .article-card {
   display: flex; flex-direction: column;
