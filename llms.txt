@@ -1,15 +1,15 @@
 # Bitcoin Pattern – Crypto Markets Blog
 
-> BTC, ETH, XRP, BNB, and SOL technical analysis every 3 hours
+> BTC, ETH, XRP, BNB, and SOL technical analysis every hour
 
 ## Site Info
 
 - Website: https://bitcoin-pattern.doubanfx.com/
 - Language: English (en)
-- Topics: Bitcoin, Ethereum, XRP, BNB, Solana, cross-asset crypto analysis
-- Update cadence: Every 3 hours (UTC)
+- Topics: Bitcoin price today, Ethereum, XRP, BNB, Solana, altcoins, crypto market analysis, trading signals
+- Update cadence: Every hour (UTC)
 - Data: OKX + Binance public REST APIs
-- AI: DeepSeek-assisted drafting
+- Editorial desk: Bitcoin Pattern Research Desk
 - Article count: 1 (and growing)
 
 ## Key Pages
@@ -19,7 +19,6 @@
 - About: https://bitcoin-pattern.doubanfx.com/about/
 - RSS: https://bitcoin-pattern.doubanfx.com/feed.xml
 - Sitemap: https://bitcoin-pattern.doubanfx.com/sitemap.xml
-- AI policy: https://bitcoin-pattern.doubanfx.com/ai.txt
 
 ## Recent Articles
 
@@ -29,7 +28,7 @@
 
 - Each article covers BTC, ETH, XRP, BNB, and SOL in one cohesive English analysis
 - Market data blended from OKX and Binance spot USDT pairs at publish time
-- AI-assisted drafting (DeepSeek); for education and research only — not investment advice
+- Written by the Bitcoin Pattern Research Desk; for education and research only — not investment advice
 - Publisher: Bitcoin Pattern
 
 ## Citation
