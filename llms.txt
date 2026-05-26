@@ -10,7 +10,7 @@
 - Update cadence: Every hour (UTC)
 - Data: OKX + Binance public REST APIs
 - Editorial desk: Bitcoin Pattern Research Desk
-- Article count: 1 (and growing)
+- Article count: 2 (and growing)
 
 ## Key Pages
 
@@ -22,6 +22,7 @@
 
 ## Recent Articles
 
+- [Bitcoin Price $77,969 Signals Defensive Stance as Crypto Complex Posts +0.01% Average Move](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/1426-bitcoin-price-77969-signals-defensive-stance-as-crypto-complex-posts-001-av/)
 - [Crypto Consolidation: ETH Stalls as BNB Lags Amidst BTC Anchor](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/1337-crypto-consolidation-eth-stalls-as-bnb-lags-amidst-btc-anchor/)
 
 ## Content Policy
