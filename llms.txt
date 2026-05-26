@@ -9,7 +9,7 @@
 - Topics: Bitcoin, Ethereum, XRP, BNB, Solana, cross-asset crypto analysis
 - Update cadence: Every 3 hours (UTC)
 - Data: OKX + Binance public REST APIs
-- AI: Google Gemini-assisted drafting
+- AI: DeepSeek-assisted drafting
 - Article count: 1 (and growing)
 
 ## Key Pages
@@ -29,7 +29,7 @@
 
 - Each article covers BTC, ETH, XRP, BNB, and SOL in one cohesive English analysis
 - Market data blended from OKX and Binance spot USDT pairs at publish time
-- AI-assisted drafting (Gemini); for education and research only — not investment advice
+- AI-assisted drafting (DeepSeek); for education and research only — not investment advice
 - Publisher: Bitcoin Pattern
 
 ## Citation
