@@ -311,6 +311,12 @@ a:hover { color: var(--purple); }
   font-size: 1.6rem;
   font-weight: 800;
   color: var(--text);
+  line-height: 1.1;
+  white-space: nowrap;
+}
+.stat-num-text {
+  font-size: 1.15rem;
+  letter-spacing: -0.02em;
 }
 .stat-label {
   font-size: 0.72rem;
