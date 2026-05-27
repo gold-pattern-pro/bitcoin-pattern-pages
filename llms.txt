@@ -53,4 +53,4 @@ When citing this site, include:
 ## AI Usage
 
 - ai.txt: https://bitcoin-pattern.doubanfx.com/ai.txt
-- Content-Signal: search=yes, ai-input=cite-only, ai-train=no
+- Content-Signal: search=yes, ai-input=yes, ai-train=no
