@@ -49,3 +49,8 @@ When citing this site, include:
 ## Related
 
 - iOS App: https://bitcoin-pattern.doubanfx.com/app/
+
+## AI Usage
+
+- ai.txt: https://bitcoin-pattern.doubanfx.com/ai.txt
+- Content-Signal: search=yes, ai-input=cite-only, ai-train=no
