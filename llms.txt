@@ -10,7 +10,7 @@
 - Update cadence: Every hour (UTC)
 - Data: OKX + Binance public REST APIs
 - Editorial desk: Bitcoin Pattern Research Desk
-- Article count: 7 (and growing)
+- Article count: 8 (and growing)
 
 ## Key Pages
 
@@ -22,12 +22,13 @@
 
 ## Recent Articles
 
-- [Bitcoin Price $75,619 Drops 1.60% While BNB Holds Firm at -0.80% in Moderate Sell-Off](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/0519-bitcoin-price-75619-drops-160-while-bnb-holds-firm-at-080-in-moderate-sell/)
-- [Bitcoin Price $75,810 Sees Rotation: BNB Holds Firm as SOL Sinks 2.11% in Divergent Alt Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/2223-bitcoin-price-75810-sees-rotation-bnb-holds-firm-as-sol-sinks-211-in-diverg/)
-- [Bitcoin Price $77,969 Signals Defensive Stance as Crypto Complex Posts +0.01% Average Move](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/1426-bitcoin-price-77969-signals-defensive-stance-as-crypto-complex-posts-001-av/)
-- [Crypto Market Today: BNB Defends the Complex as SOL Sheds 2.17% Amid Broader Sell-Off](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/2013-crypto-market-today-bnb-defends-the-complex-as-sol-sheds-217-amid-broader-s/)
-- [Crypto Market Today: Bitcoin Price $75,994 Leads Declines as BNB Holds Steady in -1.29% Average Move Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/0011-crypto-market-today-bitcoin-price-75994-leads-declines-as-bnb-holds-steady/)
+- [Crypto Market Today: Bitcoin $75,693 Drags Complex to -1.07% as BNB Defies Broader Weakness](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/0553-crypto-market-today-bitcoin-75693-drags-complex-to-107-as-bnb-defies-broade/)
 - [Bitcoin Price $76,091 Holds Consolidation Amid 2.35% Average Decline; Ethereum Leads Laggards at -3.22%](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/1728-bitcoin-price-76091-holds-consolidation-amid-235-average-decline-ethereum-l/)
+- [Bitcoin Price $75,619 Drops 1.60% While BNB Holds Firm at -0.80% in Moderate Sell-Off](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/0519-bitcoin-price-75619-drops-160-while-bnb-holds-firm-at-080-in-moderate-sell/)
+- [Crypto Market Today: BNB Defends the Complex as SOL Sheds 2.17% Amid Broader Sell-Off](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/2013-crypto-market-today-bnb-defends-the-complex-as-sol-sheds-217-amid-broader-s/)
+- [Bitcoin Price $77,969 Signals Defensive Stance as Crypto Complex Posts +0.01% Average Move](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/1426-bitcoin-price-77969-signals-defensive-stance-as-crypto-complex-posts-001-av/)
+- [Crypto Market Today: Bitcoin Price $75,994 Leads Declines as BNB Holds Steady in -1.29% Average Move Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/0011-crypto-market-today-bitcoin-price-75994-leads-declines-as-bnb-holds-steady/)
+- [Bitcoin Price $75,810 Sees Rotation: BNB Holds Firm as SOL Sinks 2.11% in Divergent Alt Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/2223-bitcoin-price-75810-sees-rotation-bnb-holds-firm-as-sol-sinks-211-in-diverg/)
 - [Crypto Consolidation: ETH Stalls as BNB Lags Amidst BTC Anchor](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/1337-crypto-consolidation-eth-stalls-as-bnb-lags-amidst-btc-anchor/)
 
 ## Content Policy
