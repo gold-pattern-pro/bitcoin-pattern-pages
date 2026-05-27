@@ -1,37 +1,29 @@
 (function () {
-  // Top-10 crypto by market cap (USDT spot pairs on OKX / Binance)
   const SYMBOLS = ["BTC", "ETH", "BNB", "SOL", "XRP", "DOGE", "ADA", "TRX", "AVAX", "LINK"];
-  const WANT = new Set(SYMBOLS);
 
-  const OKX_IDS = {
-    BTC: "BTC-USDT",
-    ETH: "ETH-USDT",
-    BNB: "BNB-USDT",
-    SOL: "SOL-USDT",
-    XRP: "XRP-USDT",
-    DOGE: "DOGE-USDT",
-    ADA: "ADA-USDT",
-    TRX: "TRX-USDT",
-    AVAX: "AVAX-USDT",
-    LINK: "LINK-USDT",
-  };
-  const BINANCE_IDS = {
-    BTC: "BTCUSDT",
-    ETH: "ETHUSDT",
-    BNB: "BNBUSDT",
-    SOL: "SOLUSDT",
-    XRP: "XRPUSDT",
-    DOGE: "DOGEUSDT",
-    ADA: "ADAUSDT",
-    TRX: "TRXUSDT",
-    AVAX: "AVAXUSDT",
-    LINK: "LINKUSDT",
-  };
-  const BINANCE_BASES = [
-    "https://data-api.binance.vision",
-    "https://api1.binance.com",
-    "https://api2.binance.com",
-  ];
+  function readEmbeddedSnapshot() {
+    const el = document.getElementById("quote-snapshot");
+    if (!el || !el.textContent) return null;
+    try {
+      return JSON.parse(el.textContent);
+    } catch (_) {
+      return null;
+    }
+  }
+
+  function snapshotToMaps(snapshot) {
+    const okx = {};
+    const binance = {};
+    const quotes = snapshot && snapshot.quotes ? snapshot.quotes : {};
+    for (const sym of SYMBOLS) {
+      const q = quotes[sym];
+      if (!q) continue;
+      const row = { price: q.price, change: q.change_pct };
+      okx[sym] = row;
+      binance[sym] = row;
+    }
+    return { okx, binance };
+  }
 
   function formatPrice(symbol, value) {
     const n = parseFloat(value);
@@ -52,88 +44,15 @@
   function blendQuote(sym, okx, binance) {
     const o = okx[sym];
     const b = binance[sym];
-    let price = o?.price || b?.price;
+    let price = o?.price ?? b?.price;
     let change = o?.change ?? b?.change;
     if (o?.price && b?.price) {
-      price = ((parseFloat(o.price) + parseFloat(b.price)) / 2).toString();
+      price = (parseFloat(o.price) + parseFloat(b.price)) / 2;
     }
     if (o?.change != null && b?.change != null) {
       change = (o.change + b.change) / 2;
     }
     return { price, change };
-  }
-
-  function parseOkxRow(t) {
-    const sym = t.instId.replace("-USDT", "");
-    const open24 = parseFloat(t.open24h) || parseFloat(t.last);
-    return {
-      price: t.last,
-      change: ((parseFloat(t.last) - open24) / open24) * 100,
-    };
-  }
-
-  async function fetchOkxSymbol(sym) {
-    try {
-      const res = await fetch(
-        "https://www.okx.com/api/v5/market/ticker?instId=" + OKX_IDS[sym]
-      );
-      const json = await res.json();
-      const t = json.data?.[0];
-      if (!t) return null;
-      return parseOkxRow(t);
-    } catch (_) {
-      return null;
-    }
-  }
-
-  async function fetchOkx() {
-    const map = {};
-    try {
-      const res = await fetch("https://www.okx.com/api/v5/market/tickers?instType=SPOT");
-      const json = await res.json();
-      for (const t of json.data || []) {
-        const sym = t.instId.replace("-USDT", "");
-        if (!WANT.has(sym)) continue;
-        map[sym] = parseOkxRow(t);
-      }
-    } catch (_) {}
-
-    const missing = SYMBOLS.filter((sym) => !map[sym]);
-    if (missing.length) {
-      await Promise.all(
-        missing.map(async (sym) => {
-          const q = await fetchOkxSymbol(sym);
-          if (q) map[sym] = q;
-        })
-      );
-    }
-    return map;
-  }
-
-  async function fetchBinanceSymbol(sym) {
-    for (const base of BINANCE_BASES) {
-      try {
-        const res = await fetch(base + "/api/v3/ticker/24hr?symbol=" + BINANCE_IDS[sym]);
-        if (!res.ok) continue;
-        const t = await res.json();
-        return {
-          price: t.lastPrice,
-          change: parseFloat(t.priceChangePercent),
-        };
-      } catch (_) {}
-    }
-    return null;
-  }
-
-  async function fetchBinance() {
-    const map = {};
-    await Promise.all(
-      SYMBOLS.map(async (sym) => {
-        const q = await fetchBinanceSymbol(sym);
-        if (q) map[sym] = q;
-      })
-    );
-    return map;
   }
 
   function buildTickerItem(sym, price, change) {
@@ -161,6 +80,7 @@
 
     const items = SYMBOLS.map((sym) => {
       const { price, change } = blendQuote(sym, okx, binance);
+      if (price == null) return null;
       return buildTickerItem(sym, price, change);
     }).filter(Boolean);
 
@@ -176,6 +96,7 @@
       const sym = card.dataset.symbol;
       if (!sym) return;
       const { price, change } = blendQuote(sym, okx, binance);
+      if (price == null) return;
       const priceEl = card.querySelector(".coin-price");
       const changeEl = card.querySelector(".coin-change");
       if (priceEl) priceEl.textContent = formatPrice(sym, price);
@@ -187,21 +108,20 @@
     });
   }
 
-  async function refresh() {
-    try {
-      const [okx, binance] = await Promise.all([fetchOkx(), fetchBinance()]);
-      renderTicker(okx, binance);
-      renderCoinGrid(okx, binance);
-    } catch (_) {
-      const track = document.getElementById("ticker-track");
-      if (track && track.querySelector(".ticker-loading")) {
-        track.innerHTML = '<span class="ticker-item ticker-loading">Quotes unavailable</span>';
-      }
-    }
+  function refreshFromSnapshot() {
+    const snapshot = readEmbeddedSnapshot();
+    if (!snapshot || !snapshot.quotes) return false;
+    const { okx, binance } = snapshotToMaps(snapshot);
+    renderTicker(okx, binance);
+    renderCoinGrid(okx, binance);
+    return true;
   }
 
-  if (document.getElementById("ticker-track") || document.getElementById("coin-grid") || document.getElementById("sidebar-coin-grid")) {
-    refresh();
-    setInterval(refresh, 30000);
+  if (
+    document.getElementById("ticker-track") ||
+    document.getElementById("coin-grid") ||
+    document.getElementById("sidebar-coin-grid")
+  ) {
+    refreshFromSnapshot();
   }
 })();
