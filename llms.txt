@@ -48,5 +48,5 @@ When citing this site, include:
 
 ## Related
 
-- iOS App: https://bitcoin-pattern.doubanfx.com/app/
-- App Store (redirect): https://bitcoin-pattern.doubanfx.com/app/
+- iOS App: https://apps.apple.com/us/app/id6753909317
+- App Store: https://apps.apple.com/us/app/id6753909317
