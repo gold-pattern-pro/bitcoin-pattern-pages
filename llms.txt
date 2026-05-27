@@ -10,7 +10,7 @@
 - Update cadence: Every hour (UTC)
 - Data: OKX + Binance public REST APIs
 - Editorial desk: Bitcoin Pattern Research Desk
-- Article count: 9 (and growing)
+- Article count: 10 (and growing)
 
 ## Key Pages
 
@@ -22,6 +22,7 @@
 
 ## Recent Articles
 
+- [Bitcoin Price $75,896 Posts -0.98% as BNB Outperforms in Low-Volatility Altcoin Rotation](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/1001-bitcoin-price-75896-posts-098-as-bnb-outperforms-in-low-volatility-altcoin/)
 - [Bitcoin Price $75,768 Leads Declines as Altcoins Rotate: BNB Holds Firm at -0.54%](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/0911-bitcoin-price-75768-leads-declines-as-altcoins-rotate-bnb-holds-firm-at-054/)
 - [Bitcoin Price $76,091 Holds Consolidation Amid 2.35% Average Decline; Ethereum Leads Laggards at -3.22%](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/1728-bitcoin-price-76091-holds-consolidation-amid-235-average-decline-ethereum-l/)
 - [Bitcoin Price $75,619 Drops 1.60% While BNB Holds Firm at -0.80% in Moderate Sell-Off](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/0519-bitcoin-price-75619-drops-160-while-bnb-holds-firm-at-080-in-moderate-sell/)
