@@ -12,4 +12,4 @@ Sitemap: https://bitcoin-pattern.doubanfx.com/sitemap.xml
 Feed: https://bitcoin-pattern.doubanfx.com/feed.xml
 About: https://bitcoin-pattern.doubanfx.com/about/
 
-Content-Signal: search=yes, ai-input=cite-only, ai-train=no
+Content-Signal: search=yes, ai-input=yes, ai-train=no
