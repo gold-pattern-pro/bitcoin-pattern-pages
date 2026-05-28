@@ -10,7 +10,7 @@
 - Update cadence: Every hour (UTC)
 - Data: OKX + Binance public REST APIs
 - Editorial desk: Bitcoin Pattern Research Desk
-- Article count: 21 (and growing)
+- Article count: 22 (and growing)
 
 ## Key Pages
 
@@ -22,26 +22,26 @@
 
 ## Recent Articles
 
-- [Bitcoin $74,547 Sets Defensive Anchor as Five-Asset Complex Sheds -1.79%; ETH Lags with -2.51% Drop](https://bitcoin-pattern.doubanfx.com/posts/2026/05/28/0002-bitcoin-74547-sets-defensive-anchor-as-five-asset-complex-sheds-179-eth-lag/)
-- [Bitcoin Price $74,468 Holds as BNB Outperforms in Risk-Off Complex; Ethereum Slides -2.26%](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/2304-bitcoin-price-74468-holds-as-bnb-outperforms-in-risk-off-complex-ethereum-s/)
-- [BNB -1.07% Leads Moderate Complex as Bitcoin $74,553 Anchors Defensive Tape](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/2221-bnb-107-leads-moderate-complex-as-bitcoin-74553-anchors-defensive-tape/)
-- [Bitcoin $75,139 Breakdown Risk Grows as Ethereum $2,058 Holds Consolidation; XRP Leads Calm Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/2128-bitcoin-75139-breakdown-risk-grows-as-ethereum-2058-holds-consolidation-xrp/)
+- [Bitcoin $74,436 Leads Range-Bound Session as Exchange Spreads Near Zero; BNB Outperforms, ETH Lags](https://bitcoin-pattern.doubanfx.com/posts/2026/05/28/0125-bitcoin-74436-leads-range-bound-session-as-exchange-spreads-near-zero-bnb-o/)
 - [Bitcoin Price $74,898 Anchors Defensive Complex as Average Move Sinks to -0.80%; SOL Holds Best](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/1746-bitcoin-price-74898-anchors-defensive-complex-as-average-move-sinks-to-080/)
+- [Bitcoin Price $74,468 Holds as BNB Outperforms in Risk-Off Complex; Ethereum Slides -2.26%](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/2304-bitcoin-price-74468-holds-as-bnb-outperforms-in-risk-off-complex-ethereum-s/)
 - [Bitcoin $75,325 Sets Defensive Tone with -0.49% Average Move; SOL Edges Higher in Low-Vol Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/2028-bitcoin-75325-sets-defensive-tone-with-049-average-move-sol-edges-higher-in/)
-- [Bitcoin Price $75,810 Sees Rotation: BNB Holds Firm as SOL Sinks 2.11% in Divergent Alt Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/2223-bitcoin-price-75810-sees-rotation-bnb-holds-firm-as-sol-sinks-211-in-diverg/)
+- [BNB -1.07% Leads Moderate Complex as Bitcoin $74,553 Anchors Defensive Tape](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/2221-bnb-107-leads-moderate-complex-as-bitcoin-74553-anchors-defensive-tape/)
 - [Crypto Market Today: Bitcoin $75,097 Leads Declines; Calm Tape Suggests Intraday Consolidation for Altcoins](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/1629-crypto-market-today-bitcoin-75097-leads-declines-calm-tape-suggests-intrada/)
+- [Bitcoin $75,139 Breakdown Risk Grows as Ethereum $2,058 Holds Consolidation; XRP Leads Calm Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/2128-bitcoin-75139-breakdown-risk-grows-as-ethereum-2058-holds-consolidation-xrp/)
+- [Bitcoin $74,547 Sets Defensive Anchor as Five-Asset Complex Sheds -1.79%; ETH Lags with -2.51% Drop](https://bitcoin-pattern.doubanfx.com/posts/2026/05/28/0002-bitcoin-74547-sets-defensive-anchor-as-five-asset-complex-sheds-179-eth-lag/)
+- [Bitcoin Price $74,908 Holds Range as SOL Leads Modest Declines; Minimal Dispersion Marks Calm Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/1808-bitcoin-price-74908-holds-range-as-sol-leads-modest-declines-minimal-disper/)
+- [Ethereum’s 2.67% Plunge Breaks Range as Bitcoin $75,208 Holds Consolidation; BNB Anchors Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/1405-ethereums-267-plunge-breaks-range-as-bitcoin-75208-holds-consolidation-bnb/)
+- [Bitcoin $75,046 Consolidates, Ethereum $2,058 Trades Flat; Solana Edges Higher](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/1906-bitcoin-75046-consolidates-ethereum-2058-trades-flat-solana-edges-higher/)
+- [Bitcoin Price $75,896 Posts -0.98% as BNB Outperforms in Low-Volatility Altcoin Rotation](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/1001-bitcoin-price-75896-posts-098-as-bnb-outperforms-in-low-volatility-altcoin/)
+- [Calm Tape Across Crypto Complex: Bitcoin $75,924 as BNB Outperforms in Low-Vol Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/1244-calm-tape-across-crypto-complex-bitcoin-75924-as-bnb-outperforms-in-low-vol/)
+- [Bitcoin Price $75,810 Sees Rotation: BNB Holds Firm as SOL Sinks 2.11% in Divergent Alt Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/2223-bitcoin-price-75810-sees-rotation-bnb-holds-firm-as-sol-sinks-211-in-diverg/)
 - [Bitcoin Price $75,619 Drops 1.60% While BNB Holds Firm at -0.80% in Moderate Sell-Off](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/0519-bitcoin-price-75619-drops-160-while-bnb-holds-firm-at-080-in-moderate-sell/)
 - [Bitcoin Price $77,969 Signals Defensive Stance as Crypto Complex Posts +0.01% Average Move](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/1426-bitcoin-price-77969-signals-defensive-stance-as-crypto-complex-posts-001-av/)
 - [Crypto Market Today: Bitcoin $75,693 Drags Complex to -1.07% as BNB Defies Broader Weakness](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/0553-crypto-market-today-bitcoin-75693-drags-complex-to-107-as-bnb-defies-broade/)
-- [Bitcoin Price $74,908 Holds Range as SOL Leads Modest Declines; Minimal Dispersion Marks Calm Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/1808-bitcoin-price-74908-holds-range-as-sol-leads-modest-declines-minimal-disper/)
-- [Ethereum’s 2.67% Plunge Breaks Range as Bitcoin $75,208 Holds Consolidation; BNB Anchors Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/1405-ethereums-267-plunge-breaks-range-as-bitcoin-75208-holds-consolidation-bnb/)
 - [Crypto Market Today: BNB Defends the Complex as SOL Sheds 2.17% Amid Broader Sell-Off](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/2013-crypto-market-today-bnb-defends-the-complex-as-sol-sheds-217-amid-broader-s/)
-- [Bitcoin $75,046 Consolidates, Ethereum $2,058 Trades Flat; Solana Edges Higher](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/1906-bitcoin-75046-consolidates-ethereum-2058-trades-flat-solana-edges-higher/)
-- [Bitcoin Price $75,896 Posts -0.98% as BNB Outperforms in Low-Volatility Altcoin Rotation](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/1001-bitcoin-price-75896-posts-098-as-bnb-outperforms-in-low-volatility-altcoin/)
 - [Crypto Market Today: Bitcoin Price $75,994 Leads Declines as BNB Holds Steady in -1.29% Average Move Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/0011-crypto-market-today-bitcoin-price-75994-leads-declines-as-bnb-holds-steady/)
-- [Calm Tape Across Crypto Complex: Bitcoin $75,924 as BNB Outperforms in Low-Vol Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/1244-calm-tape-across-crypto-complex-bitcoin-75924-as-bnb-outperforms-in-low-vol/)
 - [Bitcoin Price $75,768 Leads Declines as Altcoins Rotate: BNB Holds Firm at -0.54%](https://bitcoin-pattern.doubanfx.com/posts/2026/05/27/0911-bitcoin-price-75768-leads-declines-as-altcoins-rotate-bnb-holds-firm-at-054/)
-- [Bitcoin Price $76,091 Holds Consolidation Amid 2.35% Average Decline; Ethereum Leads Laggards at -3.22%](https://bitcoin-pattern.doubanfx.com/posts/2026/05/26/1728-bitcoin-price-76091-holds-consolidation-amid-235-average-decline-ethereum-l/)
 
 ## Content Policy
 
