@@ -10,7 +10,7 @@
 - Update cadence: Every hour (UTC)
 - Data: OKX + Binance public REST APIs
 - Editorial desk: Bitcoin Pattern Research Desk
-- Article count: 54 (and growing)
+- Article count: 55 (and growing)
 
 ## Key Pages
 
@@ -22,10 +22,12 @@
 
 ## Recent Articles
 
-- [BNB Rallies 4.5% Against BTC’s $73,609 Anchor as Altcoin Rotation Gains Momentum](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0649-bnb-rallies-45-against-btcs-73609-anchor-as-altcoin-rotation-gains-momentum/)
+- [Bitcoin Price $73,541 Trails BNB's 5.63% Surge as Extreme Volatility Diverges From Calm Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0759-bitcoin-price-73541-trails-bnbs-563-surge-as-extreme-volatility-diverges-fr/)
 - [BNB Surges 3.45% as Bitcoin Holds $73,555 – Altcoin Rotation Intensifies in Low-Vol Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0347-bnb-surges-345-as-bitcoin-holds-73555-altcoin-rotation-intensifies-in-low-v/)
 - [Bitcoin Price $73,399 Holds Steady; BNB Outperforms as XRP and SOL Lag in Low-Vol Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/29/1916-bitcoin-price-73399-holds-steady-bnb-outperforms-as-xrp-and-sol-lag-in-low/)
 - [Altcoin Rotation Intensifies: BNB Surges 3.29% as Bitcoin Holds $73,326 – XRP and SOL Show Mixed Signals](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0430-altcoin-rotation-intensifies-bnb-surges-329-as-bitcoin-holds-73326-xrp-and/)
+- [Bitcoin at $73,946 Heads Low-Vol Complex as XRP Trails; Intraday Traders Eye Breakout Triggers from Calm Tape](https://bitcoin-pattern.doubanfx.com/posts/2026/05/29/1757-bitcoin-at-73946-heads-low-vol-complex-as-xrp-trails-intraday-traders-eye-b/)
+- [BNB Rallies 4.5% Against BTC’s $73,609 Anchor as Altcoin Rotation Gains Momentum](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0649-bnb-rallies-45-against-btcs-73609-anchor-as-altcoin-rotation-gains-momentum/)
 - [BNB Edges Bitcoin Higher as SOL Slips in Low-Vol Altcoin Rotation – BTC at $73,410](https://bitcoin-pattern.doubanfx.com/posts/2026/05/29/2209-bnb-edges-bitcoin-higher-as-sol-slips-in-low-vol-altcoin-rotation-btc-at-73/)
 - [XRP’s 3.84% Volatility Spike Highlights Intraday Trading Risks as Bitcoin Holds $73,624](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0130-xrps-384-volatility-spike-highlights-intraday-trading-risks-as-bitcoin-hold/)
 - [Bitcoin Holds $73,545 as BNB Leads Altcoin Rotation with 4.12% Surge](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0533-bitcoin-holds-73545-as-bnb-leads-altcoin-rotation-with-412-surge/)
@@ -34,14 +36,12 @@
 - [Crypto Market Today: Bitcoin Holds $73,785 as XRP Surges 2.72%, BNB Lags in Low-Vol Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/29/0843-crypto-market-today-bitcoin-holds-73785-as-xrp-surges-272-bnb-lags-in-low-v/)
 - [Bitcoin Price $73,349 Anchors Range-Bound Five-Asset Complex; XRP Surges 2.59% as BNB Slips](https://bitcoin-pattern.doubanfx.com/posts/2026/05/29/0400-bitcoin-price-73349-anchors-range-bound-five-asset-complex-xrp-surges-259-a/)
 - [Crypto Market Today: Bitcoin at $73,698 Anchors Low-Vol Five-Asset Complex as XRP Leads, BNB Lags at -1.15%](https://bitcoin-pattern.doubanfx.com/posts/2026/05/28/2214-crypto-market-today-bitcoin-at-73698-anchors-low-vol-five-asset-complex-as/)
-- [Bitcoin at $73,946 Heads Low-Vol Complex as XRP Trails; Intraday Traders Eye Breakout Triggers from Calm Tape](https://bitcoin-pattern.doubanfx.com/posts/2026/05/29/1757-bitcoin-at-73946-heads-low-vol-complex-as-xrp-trails-intraday-traders-eye-b/)
 - [Bitcoin Holds $73,532, Ethereum Tests $2,009; XRP +2.01% Leads Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/29/0502-bitcoin-holds-73532-ethereum-tests-2009-xrp-201-leads-complex/)
 - [BNB Drops 1.57% as XRP Gains 0.55% in Mixed Bitcoin $73,570 Low-Volatility Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/29/0134-bnb-drops-157-as-xrp-gains-055-in-mixed-bitcoin-73570-low-volatility-comple/)
 - [Calm Tape Dominates: Bitcoin $73,648, Ethereum +1.22% Leads – Intraday Traders Seek Breakout Triggers](https://bitcoin-pattern.doubanfx.com/posts/2026/05/29/1628-calm-tape-dominates-bitcoin-73648-ethereum-122-leads-intraday-traders-seek/)
 - [Bitcoin Lags at $73,219 as Ethereum Leads with +1.11% in Low-Vol Five-Asset Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/29/1349-bitcoin-lags-at-73219-as-ethereum-leads-with-111-in-low-vol-five-asset-sess/)
 - [Bitcoin Price $73,679 Anchors Modestly Risk-On Complex as XRP Leads with +2.08% Gain](https://bitcoin-pattern.doubanfx.com/posts/2026/05/29/1035-bitcoin-price-73679-anchors-modestly-risk-on-complex-as-xrp-leads-with-208/)
 - [Bitcoin Price $73,468 Slides 2.05% as XRP Outshines in -1.72% Defensive Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/28/1946-bitcoin-price-73468-slides-205-as-xrp-outshines-in-172-defensive-session/)
-- [XRP Rises 1.77% While Bitcoin Holds $73,406 in Low-Vol Five-Asset Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/29/1218-xrp-rises-177-while-bitcoin-holds-73406-in-low-vol-five-asset-session/)
 
 ## Content Policy
 
