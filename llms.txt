@@ -10,7 +10,7 @@
 - Update cadence: Every hour (UTC)
 - Data: OKX + Binance public REST APIs
 - Editorial desk: Bitcoin Pattern Research Desk
-- Article count: 71 (and growing)
+- Article count: 72 (and growing)
 
 ## Key Pages
 
@@ -22,26 +22,26 @@
 
 ## Recent Articles
 
-- [BNB's 11.97% Volatility Surge Reshapes Trading Dynamics as Bitcoin Holds $74,129 Anchor](https://bitcoin-pattern.doubanfx.com/posts/2026/05/31/0412-bnbs-1197-volatility-surge-reshapes-trading-dynamics-as-bitcoin-holds-74129/)
-- [Bitcoin Price $73,938: Complex Average +3.03% – Risk-On or Defensive?](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/2039-bitcoin-price-73938-complex-average-303-risk-on-or-defensive/)
-- [BNB's +10.39% Surge Redefines Crypto Complex as Bitcoin Holds $73,897 Anchor](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/2216-bnbs-1039-surge-redefines-crypto-complex-as-bitcoin-holds-73897-anchor/)
-- [Crypto Market Today: Extreme BNB Volatility Overshadows Bitcoin's $73,923 Calm](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/2301-crypto-market-today-extreme-bnb-volatility-overshadows-bitcoins-73923-calm/)
-- [BNB’s 12.19% Surge Overshadows Bitcoin’s $73,979 Anchor – Extreme Volatility Reshapes the Crypto Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/2103-bnbs-1219-surge-overshadows-bitcoins-73979-anchor-extreme-volatility-reshap/)
-- [XRP Slides 1.04% While BNB Surges 12.13% – Bitcoin Holds $74,074 as Dispersion Widens](https://bitcoin-pattern.doubanfx.com/posts/2026/05/31/0153-xrp-slides-104-while-bnb-surges-1213-bitcoin-holds-74074-as-dispersion-wide/)
-- [Altcoin Rotation Intensifies: BNB Surges 3.29% as Bitcoin Holds $73,326 – XRP and SOL Show Mixed Signals](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0430-altcoin-rotation-intensifies-bnb-surges-329-as-bitcoin-holds-73326-xrp-and/)
+- [Bitcoin $74,199 Anchors as BNB’s 11.54% Surge Raises Risk-On vs Defensive Question](https://bitcoin-pattern.doubanfx.com/posts/2026/05/31/0508-bitcoin-74199-anchors-as-bnbs-1154-surge-raises-risk-on-vs-defensive-questi/)
 - [BNB's 5.94% Rally Outpaces Bitcoin's $73,769 Anchor – Altcoin Rotation Signals Risk-On Shift](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/1347-bnbs-594-rally-outpaces-bitcoins-73769-anchor-altcoin-rotation-signals-risk/)
 - [Low-Vol Complex Shattered: BNB's 7.71% Surge Leaves Bitcoin Trailing at $73,963](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/1512-low-vol-complex-shattered-bnbs-771-surge-leaves-bitcoin-trailing-at-73963/)
 - [Ethereum at $2,023 Stages Breakout While Bitcoin Consolidates at $73,946 – BNB Surges 6.44%](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/1410-ethereum-at-2023-stages-breakout-while-bitcoin-consolidates-at-73946-bnb-su/)
-- [BNB Rallies 4.5% Against BTC’s $73,609 Anchor as Altcoin Rotation Gains Momentum](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0649-bnb-rallies-45-against-btcs-73609-anchor-as-altcoin-rotation-gains-momentum/)
+- [Bitcoin Price $73,938: Complex Average +3.03% – Risk-On or Defensive?](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/2039-bitcoin-price-73938-complex-average-303-risk-on-or-defensive/)
 - [Bitcoin Price Holds $74,028 Range as BNB Surges 12.61% in Low-Dispersion Crypto Market](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/1922-bitcoin-price-holds-74028-range-as-bnb-surges-1261-in-low-dispersion-crypto/)
+- [BNB's +10.39% Surge Redefines Crypto Complex as Bitcoin Holds $73,897 Anchor](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/2216-bnbs-1039-surge-redefines-crypto-complex-as-bitcoin-holds-73897-anchor/)
 - [Bitcoin Consolidates at $73,904, Ethereum at $2,026 Holds, as BNB Breakout Reshapes Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/1712-bitcoin-consolidates-at-73904-ethereum-at-2026-holds-as-bnb-breakout-reshap/)
-- [Crypto Market Today: BNB's 5.35% Surge Breaks Low-Vol Calm as Bitcoin Holds $73,657](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/1020-crypto-market-today-bnbs-535-surge-breaks-low-vol-calm-as-bitcoin-holds-736/)
 - [Elevated BNB Volatility at +4.99% Calls for Intraday Discipline as Bitcoin Holds $73,563](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/1123-elevated-bnb-volatility-at-499-calls-for-intraday-discipline-as-bitcoin-hol/)
-- [Bitcoin at $73,540 as BNB’s 5.18% Gain Shifts Complex to Risk-On with +1.19% Average Move](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0921-bitcoin-at-73540-as-bnbs-518-gain-shifts-complex-to-risk-on-with-119-averag/)
-- [Bitcoin Holds $73,545 as BNB Leads Altcoin Rotation with 4.12% Surge](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0533-bitcoin-holds-73545-as-bnb-leads-altcoin-rotation-with-412-surge/)
+- [BNB's 11.97% Volatility Surge Reshapes Trading Dynamics as Bitcoin Holds $74,129 Anchor](https://bitcoin-pattern.doubanfx.com/posts/2026/05/31/0412-bnbs-1197-volatility-surge-reshapes-trading-dynamics-as-bitcoin-holds-74129/)
 - [Bitcoin at $74,011: Risk-On Rotation or Defensive Calm? Complex Average +3.05% Led by BNB's 10.94% Surge](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/1851-bitcoin-at-74011-risk-on-rotation-or-defensive-calm-complex-average-305-led/)
-- [Bitcoin Price $73,537 Anchors Risk-On Complex with +1.51% Average Move; BNB Surges 5.53%](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0807-bitcoin-price-73537-anchors-risk-on-complex-with-151-average-move-bnb-surge/)
-- [Bitcoin Price $73,541 Trails BNB's 5.63% Surge as Extreme Volatility Diverges From Calm Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0759-bitcoin-price-73541-trails-bnbs-563-surge-as-extreme-volatility-diverges-fr/)
+- [Crypto Market Today: Extreme BNB Volatility Overshadows Bitcoin's $73,923 Calm](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/2301-crypto-market-today-extreme-bnb-volatility-overshadows-bitcoins-73923-calm/)
+- [BNB’s 12.19% Surge Overshadows Bitcoin’s $73,979 Anchor – Extreme Volatility Reshapes the Crypto Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/2103-bnbs-1219-surge-overshadows-bitcoins-73979-anchor-extreme-volatility-reshap/)
+- [XRP Slides 1.04% While BNB Surges 12.13% – Bitcoin Holds $74,074 as Dispersion Widens](https://bitcoin-pattern.doubanfx.com/posts/2026/05/31/0153-xrp-slides-104-while-bnb-surges-1213-bitcoin-holds-74074-as-dispersion-wide/)
+- [BNB Surges 3.45% as Bitcoin Holds $73,555 – Altcoin Rotation Intensifies in Low-Vol Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0347-bnb-surges-345-as-bitcoin-holds-73555-altcoin-rotation-intensifies-in-low-v/)
+- [Bitcoin Price $73,399 Holds Steady; BNB Outperforms as XRP and SOL Lag in Low-Vol Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/05/29/1916-bitcoin-price-73399-holds-steady-bnb-outperforms-as-xrp-and-sol-lag-in-low/)
+- [Altcoin Rotation Intensifies: BNB Surges 3.29% as Bitcoin Holds $73,326 – XRP and SOL Show Mixed Signals](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0430-altcoin-rotation-intensifies-bnb-surges-329-as-bitcoin-holds-73326-xrp-and/)
+- [BNB Rallies 4.5% Against BTC’s $73,609 Anchor as Altcoin Rotation Gains Momentum](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/0649-bnb-rallies-45-against-btcs-73609-anchor-as-altcoin-rotation-gains-momentum/)
+- [BNB Edges Bitcoin Higher as SOL Slips in Low-Vol Altcoin Rotation – BTC at $73,410](https://bitcoin-pattern.doubanfx.com/posts/2026/05/29/2209-bnb-edges-bitcoin-higher-as-sol-slips-in-low-vol-altcoin-rotation-btc-at-73/)
+- [Crypto Market Today: BNB's 5.35% Surge Breaks Low-Vol Calm as Bitcoin Holds $73,657](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/1020-crypto-market-today-bnbs-535-surge-breaks-low-vol-calm-as-bitcoin-holds-736/)
 
 ## Content Policy
 
