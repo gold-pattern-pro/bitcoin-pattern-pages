@@ -10,7 +10,7 @@
 - Update cadence: Every hour (UTC)
 - Data: OKX + Binance public REST APIs
 - Editorial desk: Bitcoin Pattern Research Desk
-- Article count: 92 (and growing)
+- Article count: 93 (and growing)
 
 ## Key Pages
 
@@ -22,6 +22,7 @@
 
 ## Recent Articles
 
+- [Bitcoin’s -1.06% Slide to $73,392 Tops Complex as BNB’s Extreme -5.95% Rout Deepens Altcoin Divergence](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/0531-bitcoins-106-slide-to-73392-tops-complex-as-bnbs-extreme-595-rout-deepens-a/)
 - [Bitcoin Holds $73,439; BNB's -5.81% Rout Flags Altcoin Underperformance in Rotation](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/0426-bitcoin-holds-73439-bnbs-581-rout-flags-altcoin-underperformance-in-rotatio/)
 - [Bitcoin's -0.99% Retreat to $73,355 Tops Laggard BNB's -4.24% in Mixed Session](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/0203-bitcoins-099-retreat-to-73355-tops-laggard-bnbs-424-in-mixed-session/)
 - [Crypto Market Today: Bitcoin Holds $73,642 Amid Low Volatility as BNB Lags -3.13% in Broad Pullback](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/0136-crypto-market-today-bitcoin-holds-73642-amid-low-volatility-as-bnb-lags-313/)
@@ -39,7 +40,6 @@
 - [Altcoin Rotation Persists: BNB Outperforms Bitcoin at $73,507 While SOL Sheds 1.60%](https://bitcoin-pattern.doubanfx.com/posts/2026/05/31/1638-altcoin-rotation-persists-bnb-outperforms-bitcoin-at-73507-while-sol-sheds/)
 - [BNB Lags with -1.61% as Bitcoin Steadies at $73,736 in Low-Vol Session](https://bitcoin-pattern.doubanfx.com/posts/2026/05/31/2104-bnb-lags-with-161-as-bitcoin-steadies-at-73736-in-low-vol-session/)
 - [Bitcoin at $73,662 Anchors Defensive Complex with -1.00% Average Move; BNB Outshines](https://bitcoin-pattern.doubanfx.com/posts/2026/05/31/1837-bitcoin-at-73662-anchors-defensive-complex-with-100-average-move-bnb-outshi/)
-- [Low-Vol Complex Shattered: BNB's 7.71% Surge Leaves Bitcoin Trailing at $73,963](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/1512-low-vol-complex-shattered-bnbs-771-surge-leaves-bitcoin-trailing-at-73963/)
 - [BNB's +7.49% Jump Reverses Low-Volatility Trend as Bitcoin Steadies at $73,942](https://bitcoin-pattern.doubanfx.com/posts/2026/05/31/0937-bnbs-749-jump-reverses-low-volatility-trend-as-bitcoin-steadies-at-73942/)
 - [Bitcoin Price $73,938: Complex Average +3.03% – Risk-On or Defensive?](https://bitcoin-pattern.doubanfx.com/posts/2026/05/30/2039-bitcoin-price-73938-complex-average-303-risk-on-or-defensive/)
 
