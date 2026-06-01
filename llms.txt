@@ -10,7 +10,7 @@
 - Update cadence: Every hour (UTC)
 - Data: OKX + Binance public REST APIs
 - Editorial desk: Bitcoin Pattern Research Desk
-- Article count: 99 (and growing)
+- Article count: 100 (and growing)
 
 ## Key Pages
 
@@ -22,7 +22,7 @@
 
 ## Recent Articles
 
-- [Bitcoin Price $71,305 Anchors Range-Bound Complex as BNB Lags -3.52% with Minimal Exchange Dispersion](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/1640-bitcoin-price-71305-anchors-range-bound-complex-as-bnb-lags-352-with-minima/)
+- [Bitcoin Price $71,584 Tests Consolidation Floor; Ethereum Leads at -0.93%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/1705-bitcoin-price-71584-tests-consolidation-floor-ethereum-leads-at-093/)
 - [BNB's Elevated Volatility Sinks 4.70%: Intraday Trading Implications as Bitcoin Defends $72,818](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/0815-bnbs-elevated-volatility-sinks-470-intraday-trading-implications-as-bitcoin/)
 - [Bitcoin Holds $73,439; BNB's -5.81% Rout Flags Altcoin Underperformance in Rotation](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/0426-bitcoin-holds-73439-bnbs-581-rout-flags-altcoin-underperformance-in-rotatio/)
 - [Bitcoin Price $73,003 Leads a Defensive Crypto Complex as Average Move Hits -2.23%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/0725-bitcoin-price-73003-leads-a-defensive-crypto-complex-as-average-move-hits-2/)
@@ -32,6 +32,7 @@
 - [Bitcoin's -0.99% Retreat to $73,355 Tops Laggard BNB's -4.24% in Mixed Session](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/0203-bitcoins-099-retreat-to-73355-tops-laggard-bnbs-424-in-mixed-session/)
 - [BNB Tumbles 4.95% as Ethereum Leads at -2.19%; Bitcoin Price Dips to $71,966](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/1317-bnb-tumbles-495-as-ethereum-leads-at-219-bitcoin-price-dips-to-71966/)
 - [Crypto Market Today: Bitcoin Holds $73,642 Amid Low Volatility as BNB Lags -3.13% in Broad Pullback](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/0136-crypto-market-today-bitcoin-holds-73642-amid-low-volatility-as-bnb-lags-313/)
+- [Bitcoin Price $71,305 Anchors Range-Bound Complex as BNB Lags -3.52% with Minimal Exchange Dispersion](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/1640-bitcoin-price-71305-anchors-range-bound-complex-as-bnb-lags-352-with-minima/)
 - [Bitcoin’s -1.06% Slide to $73,392 Tops Complex as BNB’s Extreme -5.95% Rout Deepens Altcoin Divergence](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/0531-bitcoins-106-slide-to-73392-tops-complex-as-bnbs-extreme-595-rout-deepens-a/)
 - [Altcoin Rotation Continues: Bitcoin's Minimal -0.37% Dip to $73,677 Outpaces XRP and SOL Losses](https://bitcoin-pattern.doubanfx.com/posts/2026/05/31/2034-altcoin-rotation-continues-bitcoins-minimal-037-dip-to-73677-outpaces-xrp-a/)
 - [Crypto Market Today: Bitcoin Edges Higher to $73,894 While Ethereum Lags -0.71% in Quiet Altcoin Drift](https://bitcoin-pattern.doubanfx.com/posts/2026/05/31/2229-crypto-market-today-bitcoin-edges-higher-to-73894-while-ethereum-lags-071-i/)
@@ -41,7 +42,6 @@
 - [XRP Slips 0.46% as BNB Surges 7.13% – Bitcoin Holds $73,799 in a Split-Session Crypto Market](https://bitcoin-pattern.doubanfx.com/posts/2026/05/31/1028-xrp-slips-046-as-bnb-surges-713-bitcoin-holds-73799-in-a-split-session-cryp/)
 - [XRP's Marginal 0.08% Decline Contrasts BNB's 7.17% Surge as Bitcoin Steadies at $73,883](https://bitcoin-pattern.doubanfx.com/posts/2026/05/31/1204-xrps-marginal-008-decline-contrasts-bnbs-717-surge-as-bitcoin-steadies-at-7/)
 - [BNB Spikes 6.77% While XRP Dips 0.76% – Altcoin Rotation Dominates as Bitcoin Holds $73,628](https://bitcoin-pattern.doubanfx.com/posts/2026/05/31/1421-bnb-spikes-677-while-xrp-dips-076-altcoin-rotation-dominates-as-bitcoin-hol/)
-- [BNB Outruns Bitcoin with 5.21% Gain as XRP Lags 0.85% in Altcoin Rotation; BTC Holds $73,631](https://bitcoin-pattern.doubanfx.com/posts/2026/05/31/1505-bnb-outruns-bitcoin-with-521-gain-as-xrp-lags-085-in-altcoin-rotation-btc-h/)
 
 ## Content Policy
 
