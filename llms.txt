@@ -10,7 +10,7 @@
 - Update cadence: Every hour (UTC)
 - Data: OKX + Binance public REST APIs
 - Editorial desk: Bitcoin Pattern Research Desk
-- Article count: 118 (and growing)
+- Article count: 119 (and growing)
 
 ## Key Pages
 
@@ -22,15 +22,14 @@
 
 ## Recent Articles
 
+- [Bitcoin Price Breakdown at $66,996; Ethereum Consolidation at $1,901 Holds Altcoin Laggards in Check](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/2022-bitcoin-price-breakdown-at-66996-ethereum-consolidation-at-1901-holds-altco/)
+- [Bitcoin Sinks to $67,417, Ethereum Holds $1,922 – Breakout vs Consolidation in High-Volatility Market](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/1708-bitcoin-sinks-to-67417-ethereum-holds-1922-breakout-vs-consolidation-in-hig/)
 - [Crypto Market Today: Bitcoin's 5.69% Slide to $67,372 Sets Tone as Ethereum Limits Losses to 3.64%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/1825-crypto-market-today-bitcoins-569-slide-to-67372-sets-tone-as-ethereum-limit/)
 - [Altcoin Rotation Intensifies as Ethereum Outperforms Bitcoin’s 4.15% Slide to $68,696](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/1407-altcoin-rotation-intensifies-as-ethereum-outperforms-bitcoins-415-slide-to/)
-- [Bitcoin Price $67,480 Sinks 5.70% as Complex Turns Defensive; Ethereum Leads with -2.81%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/1658-bitcoin-price-67480-sinks-570-as-complex-turns-defensive-ethereum-leads-wit/)
-- [Bitcoin Sinks to $67,417, Ethereum Holds $1,922 – Breakout vs Consolidation in High-Volatility Market](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/1708-bitcoin-sinks-to-67417-ethereum-holds-1922-breakout-vs-consolidation-in-hig/)
 - [Ethereum Demonstrates Relative Strength at -0.61% as Bitcoin Plunges 4.65% to $69,619](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/0911-ethereum-demonstrates-relative-strength-at-061-as-bitcoin-plunges-465-to-69/)
+- [Bitcoin Price $67,480 Sinks 5.70% as Complex Turns Defensive; Ethereum Leads with -2.81%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/1658-bitcoin-price-67480-sinks-570-as-complex-turns-defensive-ethereum-leads-wit/)
 - [Ethereum Defies Broader Slide with -0.27% as Bitcoin Price Sinks to $70,090 During High-Volatility Session](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/0700-ethereum-defies-broader-slide-with-027-as-bitcoin-price-sinks-to-70090-duri/)
 - [Crypto Market Today: Ethereum's -0.67% Defies Broader Sell-off as Bitcoin Slips to $71,366](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/2305-crypto-market-today-ethereums-067-defies-broader-sell-off-as-bitcoin-slips/)
-- [Bitcoin's -2.94% High-Volatility Slide to $71,436 Sets Intraday Tactical Tone for Altcoins](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/1913-bitcoins-294-high-volatility-slide-to-71436-sets-intraday-tactical-tone-for/)
-- [Ethereum's -0.74% Outperformance Highlights Altcoin Rotation as Bitcoin Lags at $71,140](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/2117-ethereums-074-outperformance-highlights-altcoin-rotation-as-bitcoin-lags-at/)
 - [Ethereum's 0.61% Gain Defies Bitcoin's 3.73% Drop to $68,810 – Altcoin Rotation Intensifies](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/1356-ethereums-061-gain-defies-bitcoins-373-drop-to-68810-altcoin-rotation-inten/)
 - [Bitcoin Price Holds $70,914 Range as Minimal Exchange Dispersion Masks Broader Altcoin Slide](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/0140-bitcoin-price-holds-70914-range-as-minimal-exchange-dispersion-masks-broade/)
 - [High-Volatility on Bitcoin and XRP Sets Divergent Intraday Risks; Ethereum Leads at -1.00%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/0203-high-volatility-on-bitcoin-and-xrp-sets-divergent-intraday-risks-ethereum-l/)
@@ -39,9 +38,10 @@
 - [Bitcoin Sinks 4.50% to $69,472 as Ethereum Limits Losses to 0.37% – Crypto Market Today](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/1146-bitcoin-sinks-450-to-69472-as-ethereum-limits-losses-to-037-crypto-market-t/)
 - [Bitcoin Price Drops 3.51% to $70,903 as Ethereum Holds Steady at +0.10% – Crypto Market Today](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/0420-bitcoin-price-drops-351-to-70903-as-ethereum-holds-steady-at-010-crypto-mar/)
 - [Elevated Volatility in BTC, XRP, BNB Signals Intraday Caution as Bitcoin Drops 3.18% to $71,370](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/0001-elevated-volatility-in-btc-xrp-bnb-signals-intraday-caution-as-bitcoin-drop/)
-- [Ethereum's -0.12% Stability at $2,005 Contrasts BTC's High-Volatility Breakout Test at $71,478](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/2057-ethereums-012-stability-at-2005-contrasts-btcs-high-volatility-breakout-tes/)
 - [BNB's Elevated Volatility Sinks 4.70%: Intraday Trading Implications as Bitcoin Defends $72,818](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/0815-bnbs-elevated-volatility-sinks-470-intraday-trading-implications-as-bitcoin/)
 - [Bitcoin Holds $73,439; BNB's -5.81% Rout Flags Altcoin Underperformance in Rotation](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/0426-bitcoin-holds-73439-bnbs-581-rout-flags-altcoin-underperformance-in-rotatio/)
+- [Bitcoin Price $73,003 Leads a Defensive Crypto Complex as Average Move Hits -2.23%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/0725-bitcoin-price-73003-leads-a-defensive-crypto-complex-as-average-move-hits-2/)
+- [Range-Bound Bitcoin at $72,675 Mirrors Minimal Exchange Dispersion as BNB Falls 2.88%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/1023-range-bound-bitcoin-at-72675-mirrors-minimal-exchange-dispersion-as-bnb-fal/)
 
 ## Content Policy
 
