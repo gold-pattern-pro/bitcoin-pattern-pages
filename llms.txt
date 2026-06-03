@@ -10,7 +10,7 @@
 - Update cadence: Every hour (UTC)
 - Data: OKX + Binance public REST APIs
 - Editorial desk: Bitcoin Pattern Research Desk
-- Article count: 129 (and growing)
+- Article count: 130 (and growing)
 
 ## Key Pages
 
@@ -22,10 +22,11 @@
 
 ## Recent Articles
 
-- [Crypto Market Today: BNB Tumbles 6.24% as XRP Outperforms Amid Extreme Volatility; Bitcoin at $65,859](https://bitcoin-pattern.doubanfx.com/posts/2026/06/03/1722-crypto-market-today-bnb-tumbles-624-as-xrp-outperforms-amid-extreme-volatil/)
+- [BNB Drops 5.24% While XRP Holds -0.27%; Bitcoin at $66,084 Amid Divergence](https://bitcoin-pattern.doubanfx.com/posts/2026/06/03/1848-bnb-drops-524-while-xrp-holds-027-bitcoin-at-66084-amid-divergence/)
 - [Altcoin Rotation Deepens: XRP Outperforms Bitcoin at $66,751 While BNB Lags with -5.98%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/03/1445-altcoin-rotation-deepens-xrp-outperforms-bitcoin-at-66751-while-bnb-lags-wi/)
 - [Bitcoin Price Breakdown at $66,996; Ethereum Consolidation at $1,901 Holds Altcoin Laggards in Check](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/2022-bitcoin-price-breakdown-at-66996-ethereum-consolidation-at-1901-holds-altco/)
 - [XRP Holds Up with -2.25% as Bitcoin Dips to $66,834; BNB Falters 6.39%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/03/1215-xrp-holds-up-with-225-as-bitcoin-dips-to-66834-bnb-falters-639/)
+- [Crypto Market Today: BNB Tumbles 6.24% as XRP Outperforms Amid Extreme Volatility; Bitcoin at $65,859](https://bitcoin-pattern.doubanfx.com/posts/2026/06/03/1722-crypto-market-today-bnb-tumbles-624-as-xrp-outperforms-amid-extreme-volatil/)
 - [Bitcoin Sinks to $67,417, Ethereum Holds $1,922 – Breakout vs Consolidation in High-Volatility Market](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/1708-bitcoin-sinks-to-67417-ethereum-holds-1922-breakout-vs-consolidation-in-hig/)
 - [BNB Plunges 6.07% as XRP Holds -1.83% in Extreme Volatility Five-Asset Session; Bitcoin at $67,260](https://bitcoin-pattern.doubanfx.com/posts/2026/06/03/0718-bnb-plunges-607-as-xrp-holds-183-in-extreme-volatility-five-asset-session-b/)
 - [Crypto Market Today: Bitcoin Sinks to $66,748 as SOL Lags at -6.96% in Extreme Volatility Session](https://bitcoin-pattern.doubanfx.com/posts/2026/06/03/0202-crypto-market-today-bitcoin-sinks-to-66748-as-sol-lags-at-696-in-extreme-vo/)
@@ -41,7 +42,6 @@
 - [Ethereum Defies Broader Slide with -0.27% as Bitcoin Price Sinks to $70,090 During High-Volatility Session](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/0700-ethereum-defies-broader-slide-with-027-as-bitcoin-price-sinks-to-70090-duri/)
 - [Crypto Market Today: Ethereum's -0.67% Defies Broader Sell-off as Bitcoin Slips to $71,366](https://bitcoin-pattern.doubanfx.com/posts/2026/06/01/2305-crypto-market-today-ethereums-067-defies-broader-sell-off-as-bitcoin-slips/)
 - [Ethereum's 0.61% Gain Defies Bitcoin's 3.73% Drop to $68,810 – Altcoin Rotation Intensifies](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/1356-ethereums-061-gain-defies-bitcoins-373-drop-to-68810-altcoin-rotation-inten/)
-- [Bitcoin Price Holds $70,914 Range as Minimal Exchange Dispersion Masks Broader Altcoin Slide](https://bitcoin-pattern.doubanfx.com/posts/2026/06/02/0140-bitcoin-price-holds-70914-range-as-minimal-exchange-dispersion-masks-broade/)
 
 ## Content Policy
 
