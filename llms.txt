@@ -10,7 +10,7 @@
 - Update cadence: Every hour (UTC)
 - Data: OKX + Binance public REST APIs
 - Editorial desk: Bitcoin Pattern Research Desk
-- Article count: 163 (and growing)
+- Article count: 164 (and growing)
 
 ## Key Pages
 
@@ -22,26 +22,26 @@
 
 ## Recent Articles
 
+- [BNB Posts Mildest -4.69% Loss as Bitcoin Drops to $60,323; ETH Slumps 10.89%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/05/1539-bnb-posts-mildest-469-loss-as-bitcoin-drops-to-60323-eth-slumps-1089/)
 - [Bitcoin Price $60,594 Anchors Defensive Complex as Ethereum Tumbles 9.82%, BNB Outperforms](https://bitcoin-pattern.doubanfx.com/posts/2026/06/05/1404-bitcoin-price-60594-anchors-defensive-complex-as-ethereum-tumbles-982-bnb-o/)
+- [Bitcoin Price $62,505 Posts Minimal -0.24% Decline as Ethereum Sinks 4.50% Leading Altcoin Weakness](https://bitcoin-pattern.doubanfx.com/posts/2026/06/05/1043-bitcoin-price-62505-posts-minimal-024-decline-as-ethereum-sinks-450-leading/)
 - [Crypto Market Today: Ethereum Leads Altcoin Rout with 7.13% Drop While BNB Shows Relative Strength](https://bitcoin-pattern.doubanfx.com/posts/2026/06/05/1345-crypto-market-today-ethereum-leads-altcoin-rout-with-713-drop-while-bnb-sho/)
 - [Ethereum's 5.51% Plunge Contrasts BNB's Resilience as Bitcoin Anchors $62,288](https://bitcoin-pattern.doubanfx.com/posts/2026/06/05/1226-ethereums-551-plunge-contrasts-bnbs-resilience-as-bitcoin-anchors-62288/)
+- [Ethereum Sinks 3.43% as BNB Leads; Bitcoin Steadies at $62,505 in Low-Volatility Session](https://bitcoin-pattern.doubanfx.com/posts/2026/06/05/1100-ethereum-sinks-343-as-bnb-leads-bitcoin-steadies-at-62505-in-low-volatility/)
 - [Ethereum’s -2.38% Leads Five-Asset Complex as Bitcoin Holds $63,198 and Solana Drops -5.15%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/04/2027-ethereums-238-leads-five-asset-complex-as-bitcoin-holds-63198-and-solana-dr/)
 - [Bitcoin Price $63,738 Anchors Defensive Complex as Average -2.84% Decline Signals Risk-Off Mode](https://bitcoin-pattern.doubanfx.com/posts/2026/06/04/2349-bitcoin-price-63738-anchors-defensive-complex-as-average-284-decline-signal/)
 - [Bitcoin's -3.59% Slide at $62,009 Shows Relative Strength as Solana Plummets 7.99%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/05/0645-bitcoins-359-slide-at-62009-shows-relative-strength-as-solana-plummets-799/)
-- [Bitcoin Price $62,505 Posts Minimal -0.24% Decline as Ethereum Sinks 4.50% Leading Altcoin Weakness](https://bitcoin-pattern.doubanfx.com/posts/2026/06/05/1043-bitcoin-price-62505-posts-minimal-024-decline-as-ethereum-sinks-450-leading/)
 - [Bitcoin at $62,828 Holds Firm as BNB Leads, ETH Sinks 4.72% in Altcoin Rotation](https://bitcoin-pattern.doubanfx.com/posts/2026/06/05/0958-bitcoin-at-62828-holds-firm-as-bnb-leads-eth-sinks-472-in-altcoin-rotation/)
 - [Elevated Volatility on ETH, XRP, BNB, SOL Signals Precarious Intraday Setup as Bitcoin Holds $63,694](https://bitcoin-pattern.doubanfx.com/posts/2026/06/05/0013-elevated-volatility-on-eth-xrp-bnb-sol-signals-precarious-intraday-setup-as/)
-- [Crypto Market Today: Bitcoin Price $63,688 as Ethereum Outperforms, Solana Lags 4.90% in Broad Selloff](https://bitcoin-pattern.doubanfx.com/posts/2026/06/04/1909-crypto-market-today-bitcoin-price-63688-as-ethereum-outperforms-solana-lags/)
 - [ETH, XRP, SOL Elevated Volatility Points to Intraday Risk as Bitcoin Steadies at $63,508](https://bitcoin-pattern.doubanfx.com/posts/2026/06/05/0502-eth-xrp-sol-elevated-volatility-points-to-intraday-risk-as-bitcoin-steadies/)
-- [Ethereum Sinks 3.43% as BNB Leads; Bitcoin Steadies at $62,505 in Low-Volatility Session](https://bitcoin-pattern.doubanfx.com/posts/2026/06/05/1100-ethereum-sinks-343-as-bnb-leads-bitcoin-steadies-at-62505-in-low-volatility/)
 - [Bitcoin Consolidates at $63,432 as Ethereum Drifts to $1,759; Solana Lags 1.49%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/05/0132-bitcoin-consolidates-at-63432-as-ethereum-drifts-to-1759-solana-lags-149/)
 - [Crypto Market Today: Bitcoin's Relative Strength at $62,439 Contrasts as Ethereum Slumps 6.22% in Broad Altcoin Selloff](https://bitcoin-pattern.doubanfx.com/posts/2026/06/05/0857-crypto-market-today-bitcoins-relative-strength-at-62439-contrasts-as-ethere/)
 - [Bitcoin Price Holds $63,604 as Range-Bound Action Sets Tone; Solana Lags 4.50% in Crypto Market Today](https://bitcoin-pattern.doubanfx.com/posts/2026/06/04/2119-bitcoin-price-holds-63604-as-range-bound-action-sets-tone-solana-lags-450-i/)
 - [Bitcoin $63,256 and Ethereum $1,755 Break Lower as Risk-Off Move Shatters Consolidation](https://bitcoin-pattern.doubanfx.com/posts/2026/06/04/2210-bitcoin-63256-and-ethereum-1755-break-lower-as-risk-off-move-shatters-conso/)
 - [Ethereum Outperforms Bitcoin at $63,225 as Solana Lags 5.52% in Altcoin Rotation](https://bitcoin-pattern.doubanfx.com/posts/2026/06/04/1726-ethereum-outperforms-bitcoin-at-63225-as-solana-lags-552-in-altcoin-rotatio/)
-- [XRP Holds -5.14% as Bitcoin Sinks to $62,135; Solana Tumbles 8.19% in Broad Selloff](https://bitcoin-pattern.doubanfx.com/posts/2026/06/04/0200-xrp-holds-514-as-bitcoin-sinks-to-62135-solana-tumbles-819-in-broad-selloff/)
 - [Consolidation Dominates: Bitcoin at $63,916 and Ethereum at $1,779 Keep Range as Solana Slumps 5.13% in Five-Asset Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/06/04/1536-consolidation-dominates-bitcoin-at-63916-and-ethereum-at-1779-keep-range-as/)
 - [All Five Coins See Elevated Volatility as Bitcoin at $63,769 and SOL -6.23% Reshape Intraday Dynamics](https://bitcoin-pattern.doubanfx.com/posts/2026/06/04/1351-all-five-coins-see-elevated-volatility-as-bitcoin-at-63769-and-sol-623-resh/)
+- [Crypto Market Today: Solana Lags 4.51% as Broad Selloff Grips All Five Assets, Bitcoin at $63,728](https://bitcoin-pattern.doubanfx.com/posts/2026/06/04/1640-crypto-market-today-solana-lags-451-as-broad-selloff-grips-all-five-assets/)
 
 ## Content Policy
 
