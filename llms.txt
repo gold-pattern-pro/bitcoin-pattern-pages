@@ -10,7 +10,7 @@
 - Update cadence: Every hour (UTC)
 - Data: OKX + Binance public REST APIs
 - Editorial desk: Bitcoin Pattern Research Desk
-- Article count: 218 (and growing)
+- Article count: 219 (and growing)
 
 ## Key Pages
 
@@ -22,26 +22,26 @@
 
 ## Recent Articles
 
-- [Ethereum Outshines Bitcoin with 5.94% Surge at $63,128 – Altcoin Rotation Intensifies](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/0202-ethereum-outshines-bitcoin-with-594-surge-at-63128-altcoin-rotation-intensi/)
-- [Elevated Volatility Sweeps BTC, ETH, XRP, BNB, SOL – Bitcoin Anchors $63,174 Intraday](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/0158-elevated-volatility-sweeps-btc-eth-xrp-bnb-sol-bitcoin-anchors-63174-intrad/)
-- [Bitcoin Price Lags at $63,249 as Ethereum Leads Altcoin Complex Up 7.71% on Extreme Volatility](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/0012-bitcoin-price-lags-at-63249-as-ethereum-leads-altcoin-complex-up-771-on-ext/)
-- [Ethereum Surges 7.85% as Bitcoin Anchors $63,323 – Altcoin Complex Expands on Elevated Volatility](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/2332-ethereum-surges-785-as-bitcoin-anchors-63323-altcoin-complex-expands-on-ele/)
+- [Crypto Market Today: Ethereum Rallies 3.73% While Bitcoin Anchors at $62,614 – Altcoin Complex Up 2.20%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/0507-crypto-market-today-ethereum-rallies-373-while-bitcoin-anchors-at-62614-alt/)
 - [Volatility-Driven Rally in ETH, XRP, BNB, SOL as Bitcoin Trades at $61,807](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/2139-volatility-driven-rally-in-eth-xrp-bnb-sol-as-bitcoin-trades-at-61807/)
-- [Ethereum Propels Altcoin Complex 4.17% Higher; Bitcoin Anchors at $62,619](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1203-ethereum-propels-altcoin-complex-417-higher-bitcoin-anchors-at-62619/)
-- [Ethereum Spikes 3.17% as Bitcoin Holds $61,744; XRP, BNB, SOL Follow Higher](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1309-ethereum-spikes-317-as-bitcoin-holds-61744-xrp-bnb-sol-follow-higher/)
 - [Bitcoin Steadies at $62,292 as Exchange Spreads Narrow; SOL Surges 5.94% Leading Altcoin Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1743-bitcoin-steadies-at-62292-as-exchange-spreads-narrow-sol-surges-594-leading/)
-- [Bitcoin Holds $62,620 as Ethereum Tests $1,631 – Breakout or Consolidation in Play?](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1151-bitcoin-holds-62620-as-ethereum-tests-1631-breakout-or-consolidation-in-pla/)
 - [Breakout vs Consolidation: Bitcoin Anchors $61,314 as Ethereum Tests $1,612 Breakout – Altcoin Complex Up 3.15%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/2002-breakout-vs-consolidation-bitcoin-anchors-61314-as-ethereum-tests-1612-brea/)
+- [Elevated Volatility Sweeps BTC, ETH, XRP, BNB, SOL – Bitcoin Anchors $63,174 Intraday](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/0158-elevated-volatility-sweeps-btc-eth-xrp-bnb-sol-bitcoin-anchors-63174-intrad/)
 - [Bitcoin Anchors at $61,875 as Altcoin Complex Rallies 4.05% in Risk-On Mode](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/2207-bitcoin-anchors-at-61875-as-altcoin-complex-rallies-405-in-risk-on-mode/)
 - [Solana Soars +4.57% as Bitcoin Holds $62,076; Elevated Volatility Drives Rotational Altcoin Gains](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1601-solana-soars-457-as-bitcoin-holds-62076-elevated-volatility-drives-rotation/)
-- [Ethereum and Solana Volatility Spikes Signal Regime Shift as Bitcoin Holds $61,771 – Intraday Implications](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1401-ethereum-and-solana-volatility-spikes-signal-regime-shift-as-bitcoin-holds/)
 - [Consolidation or Breakout? Bitcoin at $62,197, Ethereum at $1,632 as SOL and XRP Surge in High-Volatility Session](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1806-consolidation-or-breakout-bitcoin-at-62197-ethereum-at-1632-as-sol-and-xrp/)
 - [Altcoin Outperformance Accelerates: XRP Jumps 3.77% While Bitcoin Price Holds $61,343](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1950-altcoin-outperformance-accelerates-xrp-jumps-377-while-bitcoin-price-holds/)
-- [Solana’s +5.12% Surge Leads Altcoin Rotation as Bitcoin Holds at $61,835 – Elevated Volatility Reshapes Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1513-solanas-512-surge-leads-altcoin-rotation-as-bitcoin-holds-at-61835-elevated/)
-- [Crypto Market Today: XRP Surges 5.44% to Lead Broad Altcoin Rally as Bitcoin Holds $62,407](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1010-crypto-market-today-xrp-surges-544-to-lead-broad-altcoin-rally-as-bitcoin-h/)
-- [Minimal OKX/Binance Spread Holds Bitcoin at $60,602; BNB Gains 1.08% as Solana Slips 2.98%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/06/2000-minimal-okxbinance-spread-holds-bitcoin-at-60602-bnb-gains-108-as-solana-sl/)
+- [Bitcoin Price Lags at $63,249 as Ethereum Leads Altcoin Complex Up 7.71% on Extreme Volatility](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/0012-bitcoin-price-lags-at-63249-as-ethereum-leads-altcoin-complex-up-771-on-ext/)
+- [Ethereum Surges 7.85% as Bitcoin Anchors $63,323 – Altcoin Complex Expands on Elevated Volatility](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/2332-ethereum-surges-785-as-bitcoin-anchors-63323-altcoin-complex-expands-on-ele/)
+- [Ethereum Outshines Bitcoin with 5.94% Surge at $63,128 – Altcoin Rotation Intensifies](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/0202-ethereum-outshines-bitcoin-with-594-surge-at-63128-altcoin-rotation-intensi/)
+- [Ethereum Propels Altcoin Complex 4.17% Higher; Bitcoin Anchors at $62,619](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1203-ethereum-propels-altcoin-complex-417-higher-bitcoin-anchors-at-62619/)
 - [Bitcoin Tests $62,657 as Ether Holds $1,621; XRP Surges 3.62% Leading Altcoin Rotation](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/0839-bitcoin-tests-62657-as-ether-holds-1621-xrp-surges-362-leading-altcoin-rota/)
-- [Crypto Market Today: Bitcoin Holds $60,785 as Solana Plunges 4.5% and BNB Shows Relative Strength – Altcoin Divergence Intensifies](https://bitcoin-pattern.doubanfx.com/posts/2026/06/06/2158-crypto-market-today-bitcoin-holds-60785-as-solana-plunges-45-and-bnb-shows/)
+- [Ethereum Spikes 3.17% as Bitcoin Holds $61,744; XRP, BNB, SOL Follow Higher](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1309-ethereum-spikes-317-as-bitcoin-holds-61744-xrp-bnb-sol-follow-higher/)
+- [Bitcoin Holds $62,620 as Ethereum Tests $1,631 – Breakout or Consolidation in Play?](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1151-bitcoin-holds-62620-as-ethereum-tests-1631-breakout-or-consolidation-in-pla/)
+- [Altcoin Rotation in Play: XRP Outpaces Bitcoin at $61,504 as SOL Slips in Low-Vol Session](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/0201-altcoin-rotation-in-play-xrp-outpaces-bitcoin-at-61504-as-sol-slips-in-low/)
+- [Ethereum and Solana Volatility Spikes Signal Regime Shift as Bitcoin Holds $61,771 – Intraday Implications](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1401-ethereum-and-solana-volatility-spikes-signal-regime-shift-as-bitcoin-holds/)
+- [Altcoins Surge as Bitcoin Lags at $61,801: XRP Leads +5.41% in Broad Rotation](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/0511-altcoins-surge-as-bitcoin-lags-at-61801-xrp-leads-541-in-broad-rotation/)
+- [Solana’s +5.12% Surge Leads Altcoin Rotation as Bitcoin Holds at $61,835 – Elevated Volatility Reshapes Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1513-solanas-512-surge-leads-altcoin-rotation-as-bitcoin-holds-at-61835-elevated/)
 
 ## Content Policy
 
