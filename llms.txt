@@ -10,7 +10,7 @@
 - Update cadence: Every hour (UTC)
 - Data: OKX + Binance public REST APIs
 - Editorial desk: Bitcoin Pattern Research Desk
-- Article count: 229 (and growing)
+- Article count: 230 (and growing)
 
 ## Key Pages
 
@@ -22,12 +22,13 @@
 
 ## Recent Articles
 
-- [BNB Lags at +2.22% as SOL Steals the Spotlight in a Broad Crypto Advance](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/2037-bnb-lags-at-222-as-sol-steals-the-spotlight-in-a-broad-crypto-advance/)
-- [ETH, XRP, SOL Volatility Surge Energizes Intraday Action as Bitcoin Holds $63,553](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/1809-eth-xrp-sol-volatility-surge-energizes-intraday-action-as-bitcoin-holds-635/)
+- [Range-Bound Bitcoin at $63,709 with Minimal Exchange Dispersion; Ethereum Surges 4.85% to Lead Altcoins](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/2112-range-bound-bitcoin-at-63709-with-minimal-exchange-dispersion-ethereum-surg/)
 - [Crypto Market Today: SOL Surges 5.15% as Bitcoin Holds $63,462 in High-Volatility Five-Asset Complex](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/1909-crypto-market-today-sol-surges-515-as-bitcoin-holds-63462-in-high-volatilit/)
+- [BNB Lags at +2.22% as SOL Steals the Spotlight in a Broad Crypto Advance](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/2037-bnb-lags-at-222-as-sol-steals-the-spotlight-in-a-broad-crypto-advance/)
 - [Minimal Exchange Dispersion as Bitcoin Steadies at $63,076; Ethereum Leads Altcoin Complex +2.56% in Range-Bound Session](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/1103-minimal-exchange-dispersion-as-bitcoin-steadies-at-63076-ethereum-leads-alt/)
 - [Ethereum Outpaces BNB with 3.66% Gain – Bitcoin Holds at $63,607 in Mixed Session](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/1638-ethereum-outpaces-bnb-with-366-gain-bitcoin-holds-at-63607-in-mixed-session/)
 - [Crypto Market Today: Ethereum Rallies 3.73% While Bitcoin Anchors at $62,614 – Altcoin Complex Up 2.20%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/0507-crypto-market-today-ethereum-rallies-373-while-bitcoin-anchors-at-62614-alt/)
+- [ETH, XRP, SOL Volatility Surge Energizes Intraday Action as Bitcoin Holds $63,553](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/1809-eth-xrp-sol-volatility-surge-energizes-intraday-action-as-bitcoin-holds-635/)
 - [Elevated Volatility Sweeps BTC, ETH, XRP, BNB, SOL – Bitcoin Anchors $63,174 Intraday](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/0158-elevated-volatility-sweeps-btc-eth-xrp-bnb-sol-bitcoin-anchors-63174-intrad/)
 - [Bitcoin Anchors at $61,875 as Altcoin Complex Rallies 4.05% in Risk-On Mode](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/2207-bitcoin-anchors-at-61875-as-altcoin-complex-rallies-405-in-risk-on-mode/)
 - [Near-Zero Exchange Dispersion Across Five-Asset Complex as Bitcoin Holds $63,844, Ethereum Leads +3.13%](https://bitcoin-pattern.doubanfx.com/posts/2026/06/08/1431-near-zero-exchange-dispersion-across-five-asset-complex-as-bitcoin-holds-63/)
@@ -41,7 +42,6 @@
 - [Volatility-Driven Rally in ETH, XRP, BNB, SOL as Bitcoin Trades at $61,807](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/2139-volatility-driven-rally-in-eth-xrp-bnb-sol-as-bitcoin-trades-at-61807/)
 - [Ethereum Propels Altcoin Complex 4.17% Higher; Bitcoin Anchors at $62,619](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1203-ethereum-propels-altcoin-complex-417-higher-bitcoin-anchors-at-62619/)
 - [Bitcoin Tests $62,657 as Ether Holds $1,621; XRP Surges 3.62% Leading Altcoin Rotation](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/0839-bitcoin-tests-62657-as-ether-holds-1621-xrp-surges-362-leading-altcoin-rota/)
-- [Ethereum Spikes 3.17% as Bitcoin Holds $61,744; XRP, BNB, SOL Follow Higher](https://bitcoin-pattern.doubanfx.com/posts/2026/06/07/1309-ethereum-spikes-317-as-bitcoin-holds-61744-xrp-bnb-sol-follow-higher/)
 
 ## Content Policy
 
